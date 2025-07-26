@@ -1,0 +1,1430 @@
+[
+  {
+    "question":"1 Byte có thể biểu diễn ở bao nhiêu trạng thái khác nhau ?",
+    "answer":"256"
+  },
+  {
+    "question":"Bộ nhớ RAM (Random Access Memory) của máy tính là nơi chứa thông tin gì ?",
+    "answer":"Chứa dữ liệu của các chương trình một cách tạm thời trong quá trình làm việc"
+  },
+  {
+    "question":"Bộ nhớ trong của máy tính bao gồm thành phần nào sau đây ?",
+    "answer":"RAM và ROM"
+  },
+  {
+    "question":"Các chức năng cơ bản của máy tính\\",
+    "answer":"Lưu trữ dữ liệu, Xử lý dữ liệu, Trao đổi dữ liệu, Điều khiển"
+  },
+  {
+    "question":"Các chương trình ứng dụng trên máy tính điện tử được lưu trữ trong bộ phận ...",
+    "answer":"Các ổ đĩa"
+  },
+  {
+    "question":"Các loại phần mềm nào sau đây thuộc phần mềm ứng dụng ?",
+    "answer":"Phần mềm giải trí, phần mềm giáo dục"
+  },
+  {
+    "question":"Các phần mềm sau đây thuộc nhóm phần mềm nào\\: MS Word, MS Excel, MS Access, ...",
+    "answer":"Nhóm phần mềm ứng dụng"
+  },
+  {
+    "question":"Cấu trúc 1 địa chỉ email là gi ?",
+    "answer":"Tên_người_dùng@Tên_miền"
+  },
+  {
+    "question":"Chọn câu thích hợp để phân biệt giữa phần mềm ứng dụng và phần mềm hệ điều ...",
+    "answer":"Phần mềm ứng dụng cần phần mềm hệ điều hành để chạy"
+  },
+  {
+    "question":"Chọn phát biểu đúng về Email ?",
+    "answer":"Là dịch vụ cho phép ta gửi và nhận thư điện tử"
+  },
+  {
+    "question":"CPU nằm ở phần nào của máy tính",
+    "answer":"Thân máy"
+  },
+  {
+    "question":"Đặc trưng nào sau đây biểu thị độ mịn của hình ảnh trên màn hình máy tính ?",
+    "answer":"Độ phân giải"
+  },
+  {
+    "question":"Đầu nối RJ45 được cắm trên card tích hợp nào sau đây?",
+    "answer":"Card mạng"
+  },
+  {
+    "question":"Để hệ điều hành Windows nhận ra một thiết bị phần cứng gắn vào máy tính thì c...",
+    "answer":"Phần mềm điều vận thiết bị (Driver)"
+  },
+  {
+    "question":"Để kích hoạt bàn phím ảo trong Hệ điều hành ta sử dụng chức năng nào sau đây ?",
+    "answer":"On-Screen Keyboard"
+  },
+  {
+    "question":"Địa chỉ IP nào sau đây không hợp lệ ?",
+    "answer":"192.168.10.369"
+  },
+  {
+    "question":"Địa chỉ vật lí trên card mạng được gọi là gì ?",
+    "answer":"Địa chỉ MAC"
+  },
+  {
+    "question":"Đối với bộ nhớ RAM, phát biểu nào sau đây là đúng ?",
+    "answer":"Là nơi lưu giữ thông tin mà máy tính đang xử lý"
+  },
+  {
+    "question":"Hệ điều hành nào dưới đây là hệ điều hành đơn nhiệm ?",
+    "answer":"MS-DOS"
+  },
+  {
+    "question":"Hệ điều hành nào sau đây là hệ điều hành mã nguồn đóng?",
+    "answer":"Windows XP"
+  },
+  {
+    "question":"Hệ điều hành nào sau đây là phần mềm nguồn mở?",
+    "answer":"Ubuntu"
+  },
+  {
+    "question":"Hệ thống nhớ của máy tính bao gồm thành phần nào sau đây ?",
+    "answer":"Bộ nhớ trong, Bộ nhớ ngoài"
+  },
+  {
+    "question":"HTTP là gì ?",
+    "answer":"Là giao thức truyền siêu văn bản"
+  },
+  {
+    "question":"Hyperlink là gì ?",
+    "answer":"Là một thành phần trong một trang Web liên kết đến vị trí khác trên cùng trang Web đó hoặc liên kết đến một trang Web khác"
+  },
+  {
+    "question":"Khi khởi động máy tính, loa tín hiệu phát ra tiếng beep dài liên tục, lỗi do ...",
+    "answer":"RAM"
+  },
+  {
+    "question":"Khối CU (Control Unit) trong CPU dùng để thực hiện nhiệm vụ nào sau đây?",
+    "answer":"Bộ phận điều khiển thực thi lệnh"
+  },
+  {
+    "question":"Lệnh nào sau đây cho biết địa chỉ IP của máy trong tính đối với hệ điều hành ...",
+    "answer":"IPCONFIG"
+  },
+  {
+    "question":"Lựa chọn nào sau đây để sắp xếp thứ tự đơn vị lưu trữ thông tin theo chiều ...",
+    "answer":"Byte, Kilobyte, Megabyte, Gigabyte, Terabyte"
+  },
+  {
+    "question":"Lựa chọn nào sau đây là đúng khi đang sử dụng máy tính, nếu bị mất nguồn điện?",
+    "answer":"Thông tin trên RAM bị mất, thông tin trên ROM không bị mất"
+  },
+  {
+    "question":"Lựa chọn nào sau đây là đúng khi nói về bộ nhớ ROM ?",
+    "answer":"Chỉ sử dụng mà không thể thêm hay xóa"
+  },
+  {
+    "question":"Lựa chọn nào sau đây là đúng khi nói về hệ điều hành máy tính cá nhân ?",
+    "answer":"Là phần mềm phải có để máy tính cá nhân có thể hoạt động"
+  },
+  {
+    "question":"Lựa chọn nào sau đây là đúng khi nói về thông tin trong bộ nhớ ROM ?",
+    "answer":"Chỉ cho phép đọc mà không được sửa đổi"
+  },
+  {
+    "question":"Lựa chọn nào sau đây là phát biểu sai khi nói về tên miền ?",
+    "answer":"Tên miền là một tên máy tính dùng để lưu trữ trang web của công ty"
+  },
+  {
+    "question":"Màn hình được kết nối với máy tính thông qua cổng nào sau đây ?",
+    "answer":"VGA"
+  },
+  {
+    "question":"Máy Scanner được kết nối với máy tính thông qua cổng nào sau đây ?",
+    "answer":"USB"
+  },
+  {
+    "question":"Máy tính cá nhân, gọi tắt là PC được viết tắt từ cụm từ nào sau đây?",
+    "answer":"Personal Computer"
+  },
+  {
+    "question":"Máy vi tính không làm được việc gì sau đây ?",
+    "answer":"Tự động nâng cấp tốc độ và khả năng xử lý"
+  },
+  {
+    "question":"Microsoft Office thuộc loại phần mềm nào sau đây?",
+    "answer":"Phần mềm ứng dụng"
+  },
+  {
+    "question":"Những chương trình nào sau đây không phải là ứng dụng dùng để duyệt web ?",
+    "answer":"Microsoft Office"
+  },
+  {
+    "question":"Những thiết bị nào sau đây được xếp vào nhóm thiết bị nội vi ?",
+    "answer":"Mainboard, CPU, CD-ROM Drive, RAM"
+  },
+  {
+    "question":"Phần cứng máy tính bao gồm các thành phần nào sau đây",
+    "answer":"Các thiết bị vật lý, các thành phần điện tử, cơ học cấu tạo nên máy tính"
+  },
+  {
+    "question":"Phần mềm của máy tính là gì ?",
+    "answer":"Là tất cả các chương trình đang có trong máy tính"
+  },
+  {
+    "question":"Phần mềm nào sau đây là không thể thiếu đối với máy tính ?",
+    "answer":"Phần mềm hệ thống"
+  },
+  {
+    "question":"Phát biểu nào sau đây đúng nhất khi nói về bộ nhớ L1 cache và L2 cache?",
+    "answer":"Là bộ nhớ đệm tốc độ cao nhất"
+  },
+  {
+    "question":"Phát biểu nào sau đây là đúng ?",
+    "answer":"Bộ nhớ của máy tính được chia thành 2 loại chính\\: Bộ nhớ trong và bộ nhớ ngoài"
+  },
+  {
+    "question":"Phát biểu nào sau đây là đúng ?",
+    "answer":"Một Byte có 8 bit"
+  },
+  {
+    "question":"Phát biểu nào sau đây là sai ?",
+    "answer":"Webcam là thiết bị dùng để đưa hình ảnh từ máy tính ra bên ngoài"
+  },
+  {
+    "question":"Qui trình nào sau đây tối ưu khi tiến hành lắp ráp và cài đặt ổ đĩa cứng?",
+    "answer":"Lắp đặt, phân vùng, định dạng, cài đặt hệ điều hành"
+  },
+  {
+    "question":"ROM là bộ nhớ dùng để làm gì ?",
+    "answer":"Chứa các chương trình hệ thống, được hãng sản xuất cài đặt sẵn, người dùng không thay đổi được"
+  },
+  {
+    "question":"Ta không thể gõ phím số ở vùng phím số chuyên dụng là bởi vì?",
+    "answer":"Chưa nhấn phím Num Lock trên bàn phím"
+  },
+  {
+    "question":"Thiết bị dưới đây dùng để đưa thông tin vào máy tính ?",
+    "answer":"Máy quét"
+  },
+  {
+    "question":"Thiết bị nào sau đây không bắt buộc phải có khi lắp ráp hoàn chỉnh một máy tính?",
+    "answer":"Máy in"
+  },
+  {
+    "question":"Thiết bị nào sau đây thuộc loại thiết bị dùng để nhập dữ liệu trong máy tính?",
+    "answer":"Bàn phím và chuột"
+  },
+  {
+    "question":"Thuật ngữ “RAM” là từ viết tắt của cụm từ nào sau đây ?",
+    "answer":"Random Access Memory"
+  },
+  {
+    "question":"Trang chủ của Website là gì ?",
+    "answer":"Là một trang web đầu tiên của Website"
+  },
+  {
+    "question":"Trong mạng LAN, để kết nối các máy tính với nhau, sử dụng thiết bị nào sau đây ?",
+    "answer":"Card mạng, dây cáp mạng"
+  },
+  {
+    "question":"Trong máy tính thiết bị nào dùng để lưu trữ các thông tin cài đặt phần cứ...",
+    "answer":"CMOS"
+  },
+  {
+    "question":"Ứng dụng nào sau đây không lưu trữ được dữ liệu trực tuyến ?",
+    "answer":"Google Chrome"
+  },
+  {
+    "question":"Vius máy tính có khả năng lây truyền như thế nào ?",
+    "answer":"Tự sao chép để lây nhiễm"
+  },
+  {
+    "question":"Web Server là gì?",
+    "answer":"Là máy chủ dùng để đặt các trang Web trên Internet"
+  },
+  {
+    "question":"Bộ mã nào sau đây không chứa các kí tự có dấu tiếng Việt?",
+    "answer":"ASCII"
+  },
+  {
+    "question":"Cách tắt máy tính nào sau đây ít an toàn nhất?",
+    "answer":"Rút dây nguồn ra khỏi bộ nguồn máy tính"
+  },
+  {
+    "question":"Dùng chuột kéo và thả một tập tin (File) từ thư mục (Folder) này sang thư mục...",
+    "answer":"Sao chép"
+  },
+  {
+    "question":"Dùng chuột kéo và thả một tập tin (File) từ thư mục (Folder) này sang thư mục...",
+    "answer":"Di chuyển"
+  },
+  {
+    "question":"Để chọn các biểu tượng (đối tượng) nằm cách nhau trên màn hình nền Desktop, ...",
+    "answer":"Nhấn phím Ctrl"
+  },
+  {
+    "question":"Để chụp lại cửa sổ ứng dụng đang dùng ta nhấn phím nào sau đây trên bàn phím\\",
+    "answer":"Tổ hợp phím Alt + Print Screen"
+  },
+  {
+    "question":"Để chụp lại toàn bộ màn hình đang sử dụng ta nhấn phím nào sau đây trên bàn ...",
+    "answer":"Print Screen"
+  },
+  {
+    "question":"Để chuyển đổi chế độ viết chữ hoa và thường ta sử dụng phím nào sau đây trên ...",
+    "answer":"Caps Lock"
+  },
+  {
+    "question":"Để chuyển đổi qua lại giữa các trình ứng dụng đang được kích hoạt (mở), ta sử...",
+    "answer":"Nhấn tổ hợp phím Alt + Tab"
+  },
+  {
+    "question":"Để gõ chữ cái in hoa, thực hiện cách nào dưới đây là đúng?",
+    "answer":"Nhấn giữ phím Shift rồi gõ phím tướng ứng"
+  },
+  {
+    "question":"Để mở hộp ControlBox của một cửa sổ, ta bấm tổ hợp phím nào sau đây?",
+    "answer":"Nhấn tổ hợp phím Alt + Space Bar"
+  },
+  {
+    "question":"Để nhìn thấy các máy tính trong mạng nội bộ thì nhấp chọn biểu tượng nào sau ...",
+    "answer":"My Network Places"
+  },
+  {
+    "question":"Để phóng to \/ phục hồi cửa sổ chương trình trên màn hình ta thực hiện thao ...",
+    "answer":"Nhắp đôi (Double) vào thanh tiêu đề (Title Bar) trên cửa sổ"
+  },
+  {
+    "question":"Để thay đổi biểu tượng của ShortCut, ta thực hiện thao tác nào sau đây?",
+    "answer":"Nhắp phải chuột tại ShortCut, chọn Properties -> Change Icon"
+  },
+  {
+    "question":"Để thay đổi hình ảnh các biểu tượng của Windows 7 như\\: Computer, Recycle Bin ...",
+    "answer":"Right Click trên Desktop - chọn Personalize - chọn mục Change Desktop Icons"
+  },
+  {
+    "question":"Để tìm kiếm một chương trình trong Windows 7, ta thực hiện thao tác nào sau đây?",
+    "answer":"Click nút Start - nhập tên chương trình cần tìm vào ô\\: Search programs and files"
+  },
+  {
+    "question":"Để xoá hẳn một tập tin (File) mà không đưa vào Recycle Bin, ta chọn File đó r...",
+    "answer":"Nhấn tổ hợp phím Shift + Delete"
+  },
+  {
+    "question":"Để xoá sạch tất cả File hoặc Folder trong Recycle Bin thì ta thực hiện thao ...",
+    "answer":"Right click chuột vào biểu tượng Recycle Bin -> Empty Recycle bin"
+  },
+  {
+    "question":"Hãy chọn phát biểu đúng trong các phát biểu sau?",
+    "answer":"Tại một thời điểm một phần mềm quét virus chỉ diệt được một số loại virus nhất định"
+  },
+  {
+    "question":"Khi kích chuột phải vào biểu tượng tập tin và chọn Copy là để làm gì?",
+    "answer":"Sao chép tập tin"
+  },
+  {
+    "question":"Khi kích chuột phải vào biểu tượng tập tin và chọn Cut là để làm gì?",
+    "answer":"Di chuyển tập tin"
+  },
+  {
+    "question":"Khi kích chuột phải vào biểu tượng tập tin và chọn Delete là để làm gì?",
+    "answer":"Xóa tập tin"
+  },
+  {
+    "question":"Khi tìm kiếm tập tin, thư mục ký tự dấu \" * \" dùng để làm gì?",
+    "answer":"Thay thế cho 1 hoặc nhiều ký tự tại vị trí dấu *"
+  },
+  {
+    "question":"Khi tìm kiếm tập tin, thư mục ký tự dấu \"? \" dùng để làm gì?",
+    "answer":"Thay thế cho 1 ký tự tại dấu?"
+  },
+  {
+    "question":"Lựa chọn nào sau đây là đúng khi nói về thư mục (folder) trong Tin học?",
+    "answer":"Tập hợp các tập tin và thư mục con"
+  },
+  {
+    "question":"Mặc định, trên Windows 7 khi một user được tạo và đăng nhập thành công vào th...",
+    "answer":"C\\:\\\\User"
+  },
+  {
+    "question":"Phần mềm nào dưới đây không phải là hệ điều hành?",
+    "answer":"WinRaR"
+  },
+  {
+    "question":"Phần mềm ứng dụng nào sau đây không phải là phần mềm ứng dụng dùng để nén tập...",
+    "answer":"Winkey"
+  },
+  {
+    "question":"Phát biểu nào sau đây là đúng khi ta xoá một ShortCut?",
+    "answer":"Tập tin (File) nguồn không bị xoá"
+  },
+  {
+    "question":"Tập tin có phần mở rộng là RAR, ZIP cho ta biết đây là loại tập tin gì?",
+    "answer":"Tập tin nén"
+  },
+  {
+    "question":"Tệp tin có phần mở rộng là EXE cho ta biết đây là loại tập tin gì?",
+    "answer":"Tập tin  thực thi"
+  },
+  {
+    "question":"Thao tác nhấp phải chuột tại một biểu tượng trên Desktop và chọn mục Copy là ...",
+    "answer":"Nhấn tổ hợp phím Ctrl + C"
+  },
+  {
+    "question":"Thuộc tính nào sau đây là thuộc tính ẩn của tập tin?",
+    "answer":"Hidden"
+  },
+  {
+    "question":"Trong các biểu tượng được liệt kê dưới đây, biểu tượng nào khi kích chuột mở ...",
+    "answer":"My Computer"
+  },
+  {
+    "question":"Trong hệ điều hành Windows, chức năng SWITCH USER được dùng để làm gì?",
+    "answer":"Không thoát các chương trình của user hiện tại mà chỉ tạm thời chuyển sang màn hình login để bạn qua user khác làm việc"
+  },
+  {
+    "question":"Trong hệ điều hành Windows, chức năng Switch user được dùng để làm gì?",
+    "answer":"Không thoát các chương trình của user hiện tại mà chỉ tạm thời chuyển sang màn hình login để bạn qua user khác làm việc"
+  },
+  {
+    "question":"Trong hệ điều hành Windows, muốn đổi tên cho thư mục đang chọn ta thực hiện ...",
+    "answer":"Nhấn phím F2, gõ tên mới cho thư mục và nhấn phím Enter"
+  },
+  {
+    "question":"Trong hệ điều hành Windows, muốn xem tổ chức các tập tin và thư mục trên đĩa,...",
+    "answer":"My Computer hoặc Windows Explorer"
+  },
+  {
+    "question":"Trong hệ điều hành Windows, ta không được đặt tên tập tin giống nhau ở đâu?",
+    "answer":"Trong cùng một thư mục"
+  },
+  {
+    "question":"Trong môi trường windows bạn có thể chạy cùng lúc bao nhiêu ứng dụng?",
+    "answer":"Chạy nhiều trình ứng dụng khác nhau"
+  },
+  {
+    "question":"Trong một thư mục của cửa sổ Explore, Nhấn Ctrl+A là để làm gì?",
+    "answer":"Chọn tất cả các tệp hồ sơ và tập tin có trong tệp hồ sơ đó"
+  },
+  {
+    "question":"Trong Windows 7 tài khoản nào có quyền cao nhất?",
+    "answer":"Administrator"
+  },
+  {
+    "question":"Trong windows 7, để khóa thanh TaskBar, tại màn hình Windows ta thực hiện ...",
+    "answer":"Kích chuột phải trên thanh TaskBar, chọn Properties và đánh dấu chọn Lock the taskbar"
+  },
+  {
+    "question":"Trong windows 7, để phục hồi một tập tin trong Recyle Bin, ta thực hiện mở ...",
+    "answer":"Chọn tập tin - mở menu File - chọn Restore"
+  },
+  {
+    "question":"Trong windows 7, để thay đổi màu cho viền cửa sổ, Start menu, Taskbar  ta thự...",
+    "answer":"Right click trên Desktop \/ chọn Personalize \/ chọn Windows Color"
+  },
+  {
+    "question":"Trong windows 7, để thiết lập kiểu định dạng Ngày Tháng Năm và Thời Gian, ta ...",
+    "answer":"Regional and Languages"
+  },
+  {
+    "question":"Trong windows 7, khi cài một ứng dụng vào máy tính ta có thể xóa phần mềm đó ...",
+    "answer":"Vào Control Panel \/ Programs, chọn Programs and Feature, chọn ứng dụng đó và chọn Uninstall"
+  },
+  {
+    "question":"Trong Windows cho phép đặt tên thư mục, tập tin tối đa dài là bao nhiêu ký tự...",
+    "answer":"255"
+  },
+  {
+    "question":"Trong Windows Explorer, để đổi tên một tập tin đã đánh dấu (chọn) ta thực hiệ...",
+    "answer":"Kích chuột phải vào tập tin \/ Rename"
+  },
+  {
+    "question":"Trong Windows Explorer, để tạo một đường dẫn tắt mới ta thực hiện thao tác ...",
+    "answer":"Kích chuột phải vào vùng trống \/ New \/ Shortcut"
+  },
+  {
+    "question":"Trong Windows Explorer, muốn chọn (đánh dấu chọn) một nhóm các tập tin nằm rờ...",
+    "answer":"Nhấn phím Ctrl rồi Click chọn các tập tin muốn chọn"
+  },
+  {
+    "question":"Trong Windows, ký tự phân cách số thập phân là gì?",
+    "answer":"Tuỳ thuộc vào ký tự do người dùng quy định trong Control Panel"
+  },
+  {
+    "question":"Trong Windows, ở cửa sổ Explorer, để chọn một lúc các tập tin hoặc thư mục nằ...",
+    "answer":"Nháy chuột ở mục đầu, ấn và giữ Shift nháy chuột ở mục cuối"
+  },
+  {
+    "question":"Ứng dụng nào sau đây có thể đọc các file có phần mở rộng là PPT hoặc PPTX?",
+    "answer":"Microsoft Office PowerPoint"
+  },
+  {
+    "question":"Virus máy tính không thể lây lan qua thiết bị nào sau đây?",
+    "answer":"Đĩa CD"
+  },
+  {
+    "question":".Trong Word khi chọn Paragraph... xuất hiện hộp thoại Paragraph ta thay đổi ...",
+    "answer":"Thay đổi khoảng cách lề trái của đoạn đang chọn"
+  },
+  {
+    "question":".Trong Word khi chọn Paragraph... xuất hiện hộp thoại Paragraph ta thay đổi ...",
+    "answer":"Thay đổi khoảng cách lề phải của đoạn đang chọn"
+  },
+  {
+    "question":"Chức năng Hyperlink trong Microft Word dùng đẻ làm gì?",
+    "answer":"Tạo một liên kết từ văn bản hiện hành đến 1 địa chỉ Web hay tập tin khác"
+  },
+  {
+    "question":"Công dụng của tổ hợp phím Ctrl + H là gì?",
+    "answer":"Gọi chức năng thay thế trong soạn thảo"
+  },
+  {
+    "question":"Để chèn chú thích vào trong văn bản Word ta sử dụng chức năng nào sau đây?",
+    "answer":"Insert Comment"
+  },
+  {
+    "question":"Để chèn đối tượng dạng công thức toán học trong Microft Word ta chọn lệnh nào...",
+    "answer":"Insert \/ Equation"
+  },
+  {
+    "question":"Để lựa chọn toàn bộ một ô trong bảng, bạn sẽ thực hiện thao tác nào sau đây?",
+    "answer":"Nhấn chuột ở vị trí góc trái dưới của ô đó"
+  },
+  {
+    "question":"Để tạo chữ viết tắt trong Microft Word ta sử dụng chức năng nào sau đây?",
+    "answer":"AutoCorrect Options"
+  },
+  {
+    "question":"Khi cần thống kê số liệu và biểu diễn dạng biểu đồ ta sử dụng lệnh nào sau đây?",
+    "answer":"Insert \/ Chart"
+  },
+  {
+    "question":"Khi soạn thảo văn bản, muốn xuống dòng nhưng chưa muốn kết thúc đoạn, ta dùng...",
+    "answer":"Nhấn tổ hợp phím Shift + Enter"
+  },
+  {
+    "question":"Lựa chọn nào sau đây là đúng khi nói về phần mềm xử lý văn bản?",
+    "answer":"Dùng để soạn thảo văn bản"
+  },
+  {
+    "question":"Muốn chia cột báo chí trong Word ta chọn lệnh nào sau đây?",
+    "answer":"Columns…"
+  },
+  {
+    "question":"Phần mềm nào có thể soạn thảo văn bản?",
+    "answer":"WordPad"
+  },
+  {
+    "question":"Phần mở rộng nào sau đây mặc định áp dụng khi lưu văn bản Microsoft Office ...",
+    "answer":".docx"
+  },
+  {
+    "question":"Soạn thảo văn bản trong chương trình Word ký tự đặt biệt được chèn như thế nào?",
+    "answer":"Chọn lệnh Insert \/ Symbol…"
+  },
+  {
+    "question":"Thao tác nhấp chuột trái 3 lần vào lề trái của văn bản sẽ có tác dụng gì?",
+    "answer":"Chọn toàn bộ văn bản"
+  },
+  {
+    "question":"Tổ hợp Ctrl + P dùng để làm gì?",
+    "answer":"Hiển thị chế độ Print Privew and Print"
+  },
+  {
+    "question":"Trong khi soạn thảo văn bản bằng Microsoft Word, để đánh dấu chọn một từ ...",
+    "answer":"Double click chuột vào từ cần chọn"
+  },
+  {
+    "question":"Trong Microft Word  để chèn hình ảnh vào văn bản ta chọn lệnh nào sau đây?",
+    "answer":"Insert \/ Pictures"
+  },
+  {
+    "question":"Trong Microft Word, công dụng của tổ hợp phím Ctrl + B có tác dụng gì ?",
+    "answer":"Tạo chữ đậm của đoạn văn bản"
+  },
+  {
+    "question":"Trong Microft Word, công dụng của tổ hợp phím Ctrl + E có tác dụng gì ?",
+    "answer":"Canh giữa đoạn văn bản"
+  },
+  {
+    "question":"Trong Microft Word, công dụng của tổ hợp phím Ctrl + I có tác dụng gì?",
+    "answer":"Tạo chữ nghiêng của đoạn văn bản"
+  },
+  {
+    "question":"Trong Microft Word, công dụng của tổ hợp phím Ctrl + J có tác dụng gì ?",
+    "answer":"Canh đều hai bên của đoạn văn bản"
+  },
+  {
+    "question":"Trong Microft Word, công dụng của tổ hợp phím Ctrl + L có tác dụng gì ?",
+    "answer":"Canh trái đoạn văn bản"
+  },
+  {
+    "question":"Trong Microft Word, công dụng của tổ hợp phím Ctrl + N dùng để thực hiện chức...",
+    "answer":"Tạo mới 01 tập tin"
+  },
+  {
+    "question":"Trong Microft Word, công dụng của tổ hợp phím Ctrl + O dùng để thực hiện chức...",
+    "answer":"Mở tập tin có sẵn trên đĩa"
+  },
+  {
+    "question":"Trong Microft Word, công dụng của tổ hợp phím Ctrl + Q có tác dụng gì ?",
+    "answer":"Xóa toàn bộ định dạng Tab stop của văn bản"
+  },
+  {
+    "question":"Trong Microft Word, công dụng của tổ hợp phím Ctrl + R có tác dụng gì ?",
+    "answer":"Canh phải đoạn văn bản"
+  },
+  {
+    "question":"Trong Microft Word, công dụng của tổ hợp phím Ctrl + S dùng để thực hiện chức...",
+    "answer":"Lưu tập tin"
+  },
+  {
+    "question":"Trong Microft Word, công dụng của tổ hợp phím Ctrl+\\= \/ Ctrl+Shift+\\= có tác dụ...",
+    "answer":"Tạo chỉ số dưới \/ chỉ số trên"
+  },
+  {
+    "question":"Trong Microft Word, để định dạng trang văn bản là khổ giấy A4 ta thực hiện lệ...",
+    "answer":"Chọn Page Layout \/ Page Setup, trong mục Size chọn A4"
+  },
+  {
+    "question":"Trong Microft Word, để định dạng trang văn bản là khổ giấy theo hướng đứng ta...",
+    "answer":"Chọn Page Layout \/ Page Setup, trong mục Orientation chọn Portrait"
+  },
+  {
+    "question":"Trong Microsoft Office Word 2010 muốn lưu tập tin văn bản của Microsoft Word ...",
+    "answer":"File \/ Save as…"
+  },
+  {
+    "question":"Trong Microsoft Office Word 2010, các tùy chọn Print nằm ở Tab nào sau đây?",
+    "answer":"File"
+  },
+  {
+    "question":"Trong Microsoft Word khi muốn gạch dưới đoạn văn bản bằng đường nét đôi sau ...",
+    "answer":"Underline style"
+  },
+  {
+    "question":"Trong Microsoft Word, các tùy chọn để thay đổi cỡ giấy nằm trên thẻ nào?",
+    "answer":"Page Layout"
+  },
+  {
+    "question":"Trong Microsoft Word, chế độ xem mặc định của Microsoft Word là gì?",
+    "answer":"Print Layout"
+  },
+  {
+    "question":"Trong Microsoft Word, dùng chức năng nào sau đây trong nhóm Paragraph trên th...",
+    "answer":"Borders"
+  },
+  {
+    "question":"Trong Microsoft Word, dùng lệnh nào sau đây để tạo phần văn bản với hiệu ứng ...",
+    "answer":"WordArt"
+  },
+  {
+    "question":"Trong Microsoft Word, dùng loại thụt lề (Indent) này để chèn mặc định thụt lề...",
+    "answer":"First Line Indent"
+  },
+  {
+    "question":"Trong Microsoft Word, để đánh số thứ tự trang vào từng trang văn bản, ta thực...",
+    "answer":"Insert \/ Page Numbers"
+  },
+  {
+    "question":"Trong Microsoft Word, để sao chép các thuộc tính và định dạng của một phần ...",
+    "answer":"Format Painter"
+  },
+  {
+    "question":"Trong Microsoft Word, để thay đổi khoảng cách giữa hai đoạn văn bản ta thiết ...",
+    "answer":"Ô Before và After trong thẻ Page Layout"
+  },
+  {
+    "question":"Trong Microsoft Word, điều gì xảy ra khi bạn kéo một Tab ra khỏi thanh ruler?",
+    "answer":"Tab bị xóa"
+  },
+  {
+    "question":"Trong Microsoft Word, khi đưa con trỏ đến phần chèn nội dung, nó sẽ trở thành...",
+    "answer":"Hình chữ I"
+  },
+  {
+    "question":"Trong Microsoft Word, lệnh nào cho phép bạn điều chỉnh khoảng cách giữa các ...",
+    "answer":"Paragraph Spacing"
+  },
+  {
+    "question":"Trong Microsoft Word, muốn in toàn bộ văn bản ta thực hiện File \/ Print và ...",
+    "answer":"Print All Pages"
+  },
+  {
+    "question":"Trong Microsoft Word, muốn nhóm nhiều đối tượng hình vẽ thành một đối tượng ...",
+    "answer":"Kích chuột phải chọn Group"
+  },
+  {
+    "question":"Trong Microsoft Word, muốn rã 1 nhóm gồm nhiều đối tượng hình vẽ đã được nhóm...",
+    "answer":"Kích chuột phải chọn Ungroup"
+  },
+  {
+    "question":"Trong Microsoft Word, muốn tạo tiêu đề đầu và cuối cho trang văn bản ta dùng ...",
+    "answer":"Header và Footer"
+  },
+  {
+    "question":"Trong Microsoft Word, thao tác giữ phím Ctrl và nhấp chuột vào một vị trí nào...",
+    "answer":"Chọn một câu tại vị trí con trỏ"
+  },
+  {
+    "question":"Trong Word muốn chèn một ô, sau khi chọn vị trí ô ta thực hiện thao tác nào ...",
+    "answer":"Kích chuột phải chọn Insert \/ Insert Cells…"
+  },
+  {
+    "question":"Trong Word muốn in các trang có số thứ tự lẻ ta thực hiện, ta chọn File \/ ...",
+    "answer":"Only Print Even Pages"
+  },
+  {
+    "question":"Trong Word muốn in trang văn bản hiện hành (vị trí con trỏ) ta thực hiện, ta ...",
+    "answer":"Print Current Page"
+  },
+  {
+    "question":"Trong Word muốn in Từ trang 1 đến trang 4 ta thực hiện, ta chọn File \/ Print ...",
+    "answer":"Phần Pages gõ\\: 1-4"
+  },
+  {
+    "question":"Trong Word muốn nhóm nhiều đối tượng hình vẽ thành một đối tượng sau khi vừa ...",
+    "answer":"Kích chuột phải chọn Regroup"
+  },
+  {
+    "question":"Trong Word muốn phóng to ký tự đầu đoạn ta chọn lệnh nào sau đây?",
+    "answer":"Drop Cap…"
+  },
+  {
+    "question":"Trong Word muốn thay đổi khoảng cách đoạn hiện tại so với đoạn trước, khi chọ...",
+    "answer":"Before"
+  },
+  {
+    "question":"Trong Word muốn thay đổi khoảng cách đoạn hiện tại so với đoạn trước, khi chọ...",
+    "answer":"Before"
+  },
+  {
+    "question":"Trong Word muốn trộn nhiều ô thành một ô, sau khi chọn các ô ta thực hiện ...",
+    "answer":"Kích chuột phải chọn Merge Cells…"
+  },
+  {
+    "question":"Trong Word muốn xóa một hay nhiều ô, sau khi chọn các ô ta thực hiện thao tác...",
+    "answer":"Kích chuột phải chọn Delete Cells…"
+  },
+  {
+    "question":"Trong Word, muốn chèn số trang tự động vào văn bản thì thao tác nào sau đây?",
+    "answer":"Chọn lệnh Insert \/ Page Numbers"
+  },
+  {
+    "question":".Trong MS Excel đưa ra bao nhiêu loại phép toán chính ?",
+    "answer":"Câu trả lời khác"
+  },
+  {
+    "question":".Trong MS Excel, kết quả sau khi thực hiện công thức sau \\: \\=INT (-4) là ?",
+    "answer":"-4"
+  },
+  {
+    "question":".Trong MS Excel, khi gõ công thức xong, rồi Enter, máy hiện ra \\#N\/A có nghĩa ...",
+    "answer":"Tập hợp rỗng"
+  },
+  {
+    "question":".Trong MS Excel, nếu ô D3 \\= 3 ; D4 \\= 4 ; D5 \\= 5. Kết quả ở ô D6 bằng bao ...",
+    "answer":"4"
+  },
+  {
+    "question":".Trong MS Excel, sự khác nhau cơ bản khi nhập một dãy số và khi nhập một chuỗ...",
+    "answer":"Dãy số nằm bên phải ô, chuỗi kí tự nằm bên trái ô"
+  },
+  {
+    "question":".Trong MS Excel, tại ô A2 có sẵn giá trị dãy kí tự \"1Angiang2\". Nếu sử dụng ...",
+    "answer":"1Angiang6"
+  },
+  {
+    "question":"Biểu thức sau cho kết quả là bao nhiêu nếu DTB\\=8?\\n\\=IF(DTB\\=5, “TB”,IF(DTB\\=6.5,...",
+    "answer":"TB"
+  },
+  {
+    "question":"Cách tổ chức thông tin của bảng tính như thế nào ?",
+    "answer":"Theo ma trận hàng và cột gọi là Bảng (Table)"
+  },
+  {
+    "question":"Chức năng nào sau đây của Microsoft Excel được sử dụng để điền dữ ...",
+    "answer":"Auto Fill"
+  },
+  {
+    "question":"Để chèn thêm 1 cột vào vị trí con trỏ ta thực hiện thao tác nào sau đây ?",
+    "answer":"Kích chuột phải, chọn Insert…\/ Entire column"
+  },
+  {
+    "question":"Để chèn thêm 1 hàng vào vị trí con trỏ ta thực hiện thao tác nào sau đây ?",
+    "answer":"Kích chuột phải, chọn Insert…\/ Entire row"
+  },
+  {
+    "question":"Để chèn thêm 1 ô vào vị trí con trỏ và đẩy các ô dữ liệu sang phải ta thực hi...",
+    "answer":"Kích chuột phải, chọn Insert…\/ Shift Cells right"
+  },
+  {
+    "question":"Để di chuyển con trỏ về ô đầu tiên trong bảng tính (A1) ta sử dụng phím tắt ...",
+    "answer":"Nhấn tổ hợp phím Ctrl + Home"
+  },
+  {
+    "question":"Để định dạng chữ in đậm văn bản trong Excel ta nhấn tố hợp phím tắt nào sau đây?",
+    "answer":"Nhấn tổ hợp phím Ctrl + B"
+  },
+  {
+    "question":"Để đổi tên một bảng tính đang có trong Excel ta thực hiện thao tác nào ?",
+    "answer":"Kích chuột phải vào phần tên Sheet chọn Rename"
+  },
+  {
+    "question":"Để mở một file Microsoft Excel có sẵn trên ổ đĩa ta thực hiện thao tác nào ...",
+    "answer":"File \/ Open"
+  },
+  {
+    "question":"Để mở một file Microsoft Excel có sẵn trên ổ đĩa ta thực hiện thao tác nào ...",
+    "answer":"File \/ Open"
+  },
+  {
+    "question":"Để tạo mới 1 file là bảng tính Excel ta thực hiện thao tác nào sau đây?",
+    "answer":"File \/ New"
+  },
+  {
+    "question":"Để thêm mới một bảng tính trong Microft Excel ta thực hiện thao tác nào sau ...",
+    "answer":"Chọn thẻ Home \/ Cells \/ Insert Sheet"
+  },
+  {
+    "question":"Để thực hiện gộp nhiều ô thành 1 ô và canh lề giữa trong Excel ta thực hiện l...",
+    "answer":"Merge and Center"
+  },
+  {
+    "question":"Để xóa một bảng tính đang có trong Microft Excel ta thực hiện thao tác nào ?",
+    "answer":"Kích chuột phải vào phần tên Sheet chọn Delete"
+  },
+  {
+    "question":"Địa chỉ $AC$3 là địa chỉ",
+    "answer":"Tuyệt đối"
+  },
+  {
+    "question":"Giả sử tại ô A1 ta gõ giá trị 5, ô B1 ta gõ giá trị 6, ô C1 ta gõ \\=A1+B1. Sau...",
+    "answer":"17"
+  },
+  {
+    "question":"Khi thoát khỏi Excel, xuất hiện hộp thoại hỏi bạn có muốn lưu File này không ...",
+    "answer":"Yes \/ No \/ Cancel"
+  },
+  {
+    "question":"Lựa chọn nào sau đây là đúng khi nhập dữ liệu vào bảng tính Excel ?",
+    "answer":"Dữ liệu kiểu ký tự sẽ mặc định căn lề trái"
+  },
+  {
+    "question":"Lựa chọn nào sau đây là đúng khi nhập vào công thức tính toán cho một ô trong...",
+    "answer":"Dấu bằng ("
+  },
+  {
+    "question":"Microsoft Excel cung cấp công cụ để tạo ra loại tài liệu nào sau đây?",
+    "answer":"Bảng tính"
+  },
+  {
+    "question":"Phần mở rộng của tập tin Microsoft Office Excel 2010 là gì ?",
+    "answer":".xlsx"
+  },
+  {
+    "question":"Trong bảng tính Excel, cho biết kết quả của của công thức \\=Max(2,min(3,0,1))",
+    "answer":"2"
+  },
+  {
+    "question":"Trong bảng tính Excel, khối ô là tập hợp nhiều ô kế cận tạo thành hình chữ nh...",
+    "answer":"B1\\:H15"
+  },
+  {
+    "question":"Trong bảng tính Excel, tại ô A2 có sẵn giá trị chuỗi \"Tin hoc\", ô B2 có giá ...",
+    "answer":"VALUE!\""
+  },
+  {
+    "question":"Trong bảng tính Excel, tại ô A2 có sẵn giá trị số 25, tại ô B2 gõ vào công th...",
+    "answer":"5"
+  },
+  {
+    "question":"Trong bảng tính Microsoft Excel, để ẩn cột, ta thực hiện thao tác nào sau đây ?",
+    "answer":"Thẻ Home \/ Cells \/ Format \/ Hide&Unhide \/ Hide Columns"
+  },
+  {
+    "question":"Trong bảng tính Microsoft Excel, để chèn hình ảnh, ta thực hiện thao tác nào ...",
+    "answer":"Thẻ Insert \/ Picture"
+  },
+  {
+    "question":"Trong bảng tính Microsoft Excel, điều kiện trong hàm IF được phát biểu dưới d...",
+    "answer":"Dấu <>"
+  },
+  {
+    "question":"Trong các dạng địa chỉ sau đây, địa chỉ nào là địa chỉ tuyệt đối tại cột, ...",
+    "answer":"$B1\\:$D10"
+  },
+  {
+    "question":"Trong Excel, để cắt được từ “TIN” trong ô A1 có nội dung “LUYEN THI TIN” biểu...",
+    "answer":"RIGHT(A1,3)"
+  },
+  {
+    "question":"Trong Excel, giá trị trả về của công thức \\=LEN(“TRUNG TAM TIN HOC“) \\",
+    "answer":"17"
+  },
+  {
+    "question":"Trong Excel, tại ô A5 chứa “VAN” và ô B5 chứa “NGUYEN”. Để ô D5 cho kết quả ...",
+    "answer":"A5+” ”+ B5"
+  },
+  {
+    "question":"Trong hộp thoại Format Cells để định dạng kiểu dữ liệu số (Number) trong ...",
+    "answer":"Chọn Use 1000 Separator (,)"
+  },
+  {
+    "question":"Trong khi làm việc với Microsoft Excel, muốn lưu bảng tính hiện thời vào đĩa,...",
+    "answer":"File \/ Save"
+  },
+  {
+    "question":"Trong khi làm việc với Microsoft Excel, muốn lưu bảng tính hiện thời vào đĩa,...",
+    "answer":"File \/ Save"
+  },
+  {
+    "question":"Trong Microsoft Excel chức năng Wrap Text dùng để làm gì ?",
+    "answer":"Tự động hiển thị xuống hàng văn bản khi chiều dài của ô chưa văn bản nhỏ hơn văn bản"
+  },
+  {
+    "question":"Trong Microsoft Excel để xác định độ dài của chuỗi ta dùng hàm nào sau đây?",
+    "answer":"LEN"
+  },
+  {
+    "question":"Trong Microsoft Excel khi nhập dữ liệu dạng số vào ô, ô đó xuất hiện dạng ...",
+    "answer":"Dãn độ rộng của cột đó ra"
+  },
+  {
+    "question":"Trong Microsoft Excel khi yêu cầu của bài toán phát biểu rằng “Đếm số lượng ...",
+    "answer":"COUNTIF"
+  },
+  {
+    "question":"Trong Microsoft Excel khi yêu cầu của bài toán phát biểu rằng “Tính tổng ...",
+    "answer":"SUMIF"
+  },
+  {
+    "question":"Trong Microsoft Excel ô A3 chứa chuỗi  “A150”, công thức\\: \\=IF(LEFT(A3,1)\\=”A”...",
+    "answer":"100"
+  },
+  {
+    "question":"Trong Microsoft Excel,  AND, OR, NOT là thuộc nhóm hàm nào sau đây ?",
+    "answer":"Hàm logic"
+  },
+  {
+    "question":"Trong Microsoft Excel, dùng hàm SUM để tính tổng các ô trong khối ô từ ô B5 đ...",
+    "answer":"SUM(B5\\:B7)"
+  },
+  {
+    "question":"Trong Microsoft Excel, hàm ABS dùng để làm gì ?",
+    "answer":"Trả về  giá trị tuyệt đối"
+  },
+  {
+    "question":"Trong Microsoft Excel, kết quả của công thức\\: \\=ROUND(MAX(12.114, 12.117),2) ...",
+    "answer":"12.12"
+  },
+  {
+    "question":"Trong Microsoft Excel, kết quả của hàm \\=IF(LEN(\"CNTT 123\")\\=9,20,10) có giá tr...",
+    "answer":"10"
+  },
+  {
+    "question":"Trong Microsoft Excel, một tập hợp được tạo thành từ một hoặc nhiều trang ...",
+    "answer":"Workbook"
+  },
+  {
+    "question":"Trong Microsoft Excel, một……, là nơi có thể nhập dữ liệu, có viền đậm xung ...",
+    "answer":"Ô tính đang được kích hoạt"
+  },
+  {
+    "question":"Trong Microsoft Excel, ô A1 của bảng tính lưu trị ngày 15\/08\/2016. Kết quả ...",
+    "answer":"8"
+  },
+  {
+    "question":"Trong Microsoft Office Excel, lệnh nào sau đây thể hiện thông tin chi tiết củ...",
+    "answer":"Info"
+  },
+  {
+    "question":"Trong MS Excel, hàm nào dùng để đếm các ô có dữ liệu kiểu số trong 1 danh sách\\",
+    "answer":"COUNT"
+  },
+  {
+    "question":"Chức năng Insert \/ ScreenShot trong Microsoft PowerPoint dùng để làm gì ?",
+    "answer":"Chèn 1 hình ảnh và các màn hình hiện tại đang mở trên Windows"
+  },
+  {
+    "question":"Để áp dụng hiệu ứng thay đổi cho tất cả Slide trong Presentation ta chọn lệnh...",
+    "answer":"Apply to All"
+  },
+  {
+    "question":"Để bắt đầu trình chiếu từ Slide đầu tiên ta sử dụng phím tắt nào sau đây ?",
+    "answer":"Nhấn phím F5"
+  },
+  {
+    "question":"Để các chú thích (Notes), khi in ra các Slide thì ta chọn lựa nào sau đây ...",
+    "answer":"Notes Pages"
+  },
+  {
+    "question":"Để chèn 1 liên kết trong Microsoft PowerPoint ta sử dụng phím tắt nào sau đây ?",
+    "answer":"Nhấn tổ hợp phím Ctrl + K"
+  },
+  {
+    "question":"Để chèn một dòng chữ trang trí nghệ thuật vào Slide ta sử dụng chức năng nào ...",
+    "answer":"Wordart"
+  },
+  {
+    "question":"Để có thể thêm hình ảnh vào các Slide trong Microsoft PowerPoint ta chọn thẻ ...",
+    "answer":"Insert"
+  },
+  {
+    "question":"Để có thể xem tất cả các Slide trên màn hình ta có thể chọn chế độ nào sau đây ?",
+    "answer":"Slide Sorter"
+  },
+  {
+    "question":"Để kết thúc việc trình diễn trong Microsoft PowerPoint, ta nhấn phím nào sau ...",
+    "answer":"Phím ESC"
+  },
+  {
+    "question":"Để mở hộp thoại định dạng Font chữ trong Microsoft PowerPoint ta dùng phím tắ...",
+    "answer":"Nhấn tổ hợp phím Ctrl +Shift + F"
+  },
+  {
+    "question":"Để thay đổi hiệu ứng khi xuất hiện của 1 Slide ta thực hiện thao tác nào sau ...",
+    "answer":"Chọn 1 hiệu ứng trong Transition to This Slide của thẻ Transitions"
+  },
+  {
+    "question":"Để thay đổi kích cỡ của Slide ta chọn lệnh nào sau đây ?",
+    "answer":"Design \/ Slide Size"
+  },
+  {
+    "question":"Để thêm chữ nghê thuật trong Microsoft PowerPoint ta chọn lệnh nào sau đây ?",
+    "answer":"Insert \/ WordArt"
+  },
+  {
+    "question":"Để thêm hiệu ứng cho các đối tượng trong Slide ta thao tác tại thẻ nào sau đây ?",
+    "answer":"Animations"
+  },
+  {
+    "question":"Để thêm hiệu ứng cho đối tượng khi biến mất ta thực hiện tại mục nào sau đây ...",
+    "answer":"Exit"
+  },
+  {
+    "question":"Để thêm hiệu ứng cho đối tượng khi xuất hiện ta thực hiện tại mục nào sau đây...",
+    "answer":"Entrance"
+  },
+  {
+    "question":"Để thêm hiệu ứng cho đối tượng trong thẻ Animation ta chọn lệnh nào sau đây ?",
+    "answer":"Add Animation"
+  },
+  {
+    "question":"Để thêm hiệu ứng di chuyển cho đối tượng ta thực hiện tại mục nào sau đây của...",
+    "answer":"Motion paths"
+  },
+  {
+    "question":"Để thêm hiệu ứng nổi bật tại chỗ cho đối tượng ta thực hiện tại mục nào sau ...",
+    "answer":"Emphasis"
+  },
+  {
+    "question":"Để thực hiện thao tác tìm kiếm trong Microsoft PowerPoint ta sử dụng phím tắt...",
+    "answer":"Nhấn tổ hợp phím Ctrl + F"
+  },
+  {
+    "question":"Để thực hiện thao tác tìm kiếm và thay thế trong Microsoft PowerPoint ta sử d...",
+    "answer":"Nhấn tổ hợp phím Ctrl + H"
+  },
+  {
+    "question":"Để vẽ chính xác một hình vuông sau khi chọn Insert \/ Shape \/ Rectangle ta kết...",
+    "answer":"Nhấn phím Shift"
+  },
+  {
+    "question":"Để vẽ một đường thẳng trong Microsoft PowerPoint ta chọn lệnh nào sau đây ?",
+    "answer":"Insert \/ Shape \/ Line"
+  },
+  {
+    "question":"Để vẽ sơ đồ phân cấp tổ chức của Công ty ta thường chọn đối tượng nào sau đây...",
+    "answer":"Hierarchy"
+  },
+  {
+    "question":"File Microsoft PowerPoint có phần mở rộng .ppsx có nghĩa là gì ?",
+    "answer":"File đó được đóng gói và chạy trình chiếu ngay sau khi kích chuột"
+  },
+  {
+    "question":"Mỗi trang trình diễn trong Microsoft PowerPoint được gọi là gì ?",
+    "answer":"Một Slide"
+  },
+  {
+    "question":"Một bài trình bày (tập tin) của Microsoft PowerPoint  được gọi là gì ?",
+    "answer":"Presentation"
+  },
+  {
+    "question":"Nhóm đối tượng Action Buttons trong Microsoft PowerPoint có tác dụng gì ?",
+    "answer":"Thêm các nút lệnh hành động di chuyển đối với Slide khi trình chiếu"
+  },
+  {
+    "question":"Nhóm đối tượng nào chỉ có trong Microsoft PowerPoint mà Microsoft Word không ...",
+    "answer":"Insert \/ Shape \/ Action Buttons"
+  },
+  {
+    "question":"Phần mở rộng của tập tin Microsoft Office PowerPoint 2010 là gì ?",
+    "answer":"pptx"
+  },
+  {
+    "question":"Sau khi chèn một đối tượng Shape từ Insert \/ Shapes, muốn thêm văn bản vào ta...",
+    "answer":"Kích chuột phải chọn Edit Text"
+  },
+  {
+    "question":"Số lượng tối đa các Slide trong một bài trình chiếu (Presentation) là bao ...",
+    "answer":"Tùy ý"
+  },
+  {
+    "question":"Tab nào chỉ xuất hiện trên Ribbon của Microsoft PowerPoint khi ta chọn vào đố...",
+    "answer":"Format"
+  },
+  {
+    "question":"Trong khi đang trình chiếu, phím tắt nào di chuyển đến Slide cuối cùng ?",
+    "answer":"Nhấn phím End"
+  },
+  {
+    "question":"Trong khi thiết kế giáo án điện tử, thực hiện thao tác chọn Insert \/ New ...",
+    "answer":"Chèn thêm một slide mới vào ngay sau Slide hiện hành"
+  },
+  {
+    "question":"Trong Microsoft Office PowerPoint chức năng Insert \/ Comment dùng để làm gì ?",
+    "answer":"Thêm chú thích vào một vị trí, đối tượng trong Slide"
+  },
+  {
+    "question":"Trong Microsoft Office PowerPoint để thay đổi định dạng màu nền của đối tượ...",
+    "answer":"Shape Fill"
+  },
+  {
+    "question":"Trong Microsoft PowerPoint  muốn đánh số cho từng Slide, ta dùng lệnh nào sau...",
+    "answer":"Insert \/ Insert Slide Number"
+  },
+  {
+    "question":"Trong Microsoft PowerPoint , muốn tạo một biểu đồ, ta thực hiện lệnh nào sau ...",
+    "answer":"Insert \/ Chart"
+  },
+  {
+    "question":"Trong Microsoft PowerPoint , muốn tạo một sơ đồ tổ chức, ta thực hiện thao ...",
+    "answer":"Insert \/ SmartArt"
+  },
+  {
+    "question":"Trong Microsoft PowerPoint để chèn liên kết, ta thực hiện lệnh nào sau đây ?",
+    "answer":"Insert \/ Hyperlink"
+  },
+  {
+    "question":"Trong Microsoft PowerPoint đẻ chèn tiêu đề đầu và cuối chân Slide ta thực hiệ...",
+    "answer":"Insert \/ Header & Footer"
+  },
+  {
+    "question":"Trong Microsoft PowerPoint để lưu file ra dạng .pdf ta thực hiện lệnh nào sau...",
+    "answer":"Chọn File \/ Save As và chọn kiểu file trong Save as type"
+  },
+  {
+    "question":"Trong Microsoft PowerPoint để tạo hiệu đổ bóng, 3D… của đối tượng, ta chọn đố...",
+    "answer":"Shape Effects"
+  },
+  {
+    "question":"Trong Microsoft PowerPoint để thay đổi định dạng viền của đối tượng, ta chọn ...",
+    "answer":"Shape Outline"
+  },
+  {
+    "question":"Trong Microsoft PowerPoint muốn chèn 1 đoạn âm thanh ta chọn lệnh nào sau đây ?",
+    "answer":"Insert \/ Audio"
+  },
+  {
+    "question":"Trong Microsoft PowerPoint muốn chèn 1 đoạn phim ta chọn lệnh nào sau đay ?",
+    "answer":"Insert \/ Video"
+  },
+  {
+    "question":"Trong Microsoft PowerPoint muốn chèn Bảng (Table) ta thực hiện lệnh nào sau ...",
+    "answer":"Insert \/ Insert Table"
+  },
+  {
+    "question":"Trong Microsoft PowerPoint muốn chèn hình ảnh ta thực hiện lệnh nào sau đây ?",
+    "answer":"Insert \/ Picture"
+  },
+  {
+    "question":"Trong Microsoft PowerPoint, chọn File \/ Save As và chọn kiểu file .mp4 có ...",
+    "answer":"Xuất file Microsoft PowerPoint đó ra định dạng video"
+  },
+  {
+    "question":"Trong Microsoft Powerpoint, để nhóm các đối tượng (Object) trong Microsoft ...",
+    "answer":"Kích chuột phải chọn Group \/ Group"
+  },
+  {
+    "question":"Trong Microsoft Powerpoint, để rã nhóm các đối đượng đã nhóm ta thực hiện ...",
+    "answer":"Chọn đối tượng, kích chuột phải và chọn Group \/ Ungroup"
+  },
+  {
+    "question":"Trong Microsoft Powerpoint, để tạo hiệu ứng cho văn bản, phải chọn Thẻ (Tab) ...",
+    "answer":"Animation"
+  },
+  {
+    "question":"Trong Microsoft Powerpoint, để tạo hiệu ứng chuyển tiếp giữa các Slide ta chọ...",
+    "answer":"Transitions"
+  },
+  {
+    "question":"Trong Microsoft Powerpoint, để tạo mới 1 Slide ta nhấn phím tắt nào sau đây ?",
+    "answer":"Nhấn tổ hợp phím Ctrl + M"
+  },
+  {
+    "question":"Trong Microsoft Powerpoint, để thêm hiệu ứng âm thanh khi đối tượng đã được ...",
+    "answer":"Sound"
+  },
+  {
+    "question":"Trong trình chiếu, để đối tượng thực hiện hiệu ứng khi kích chuột ta chọn lệ...",
+    "answer":"Start \/ On Click"
+  },
+  {
+    "question":".Chức năng Bookmark của trình duyệt web dùng để\\",
+    "answer":"Đánh dấu trang web trên trình duyệt"
+  },
+  {
+    "question":".Khi muốn tìm kiếm thông tin trên mạng Internet, chúng ta cần",
+    "answer":"Tìm kiếm trên các Websites tìm kiếm chuyên dụng"
+  },
+  {
+    "question":".Website Yahoo.com hoặc gmail.com cho phép người sử dụng thực hiện",
+    "answer":"3 lựa chọn trên đúng"
+  },
+  {
+    "question":"Các thành phần của tên miền được phân cách bằng ký tự gì",
+    "answer":"Dấu “.”"
+  },
+  {
+    "question":"Chọn câu đúng khi nói về Tường lửa (Firewall) ?",
+    "answer":"Firewall chỉ có thể ngăn chặn các tấn công từ bên ngoài hệ thống"
+  },
+  {
+    "question":"Cơ quan đảm nhận việc đăng kí tên miền trên Internet, như là daihocit.edu.vn,...",
+    "answer":"Internet Registrar"
+  },
+  {
+    "question":"Cookie là gì ?",
+    "answer":"Là các tệp tin văn bản nhỏ lưu trữ thông tin về quá trình truy xuất Internet của người dùng hoặc các thông tin cá nhân mà người dùng đã từng khai báo"
+  },
+  {
+    "question":"Cụm từ BCC trong mail là viết tắt của  từ nào nào sau đây ?",
+    "answer":"Blind Carbon Copy"
+  },
+  {
+    "question":"Dịch vụ FTP được xây dựng trên loại máy chủ nào ?",
+    "answer":"File server"
+  },
+  {
+    "question":"Dịch vụ Ineternet được chính thức cung cấp tại Việt nam vào năm nào ?",
+    "answer":"1997"
+  },
+  {
+    "question":"Dịch vụ thư điện tử được dùng để làm gì ?",
+    "answer":"Trao đổi thư thông qua môi trường Internet"
+  },
+  {
+    "question":"Diễn đàn trên Internet dùng để làm gì ?",
+    "answer":"Cho phép các thành viên có thể trao đổi, học hỏi về nhiều lĩnh vực có cùng sự quan tâm"
+  },
+  {
+    "question":"Đâu là định nghĩa đúng nhất về trang Web ?",
+    "answer":"Là trang siêu văn bản phối hợp giữa văn bản thông thường với hình ảnh, âm thanh, video và cả các mối liên kết đến các trang siêu văn bản khác"
+  },
+  {
+    "question":"Để bật \/ tắt tường lửa Windows Firewall trong máy tính ta thực hiện vào ...",
+    "answer":"Nhấn chuột chọn System and Security \/ Windows Firewall"
+  },
+  {
+    "question":"Để ghi lại các địa chỉ trang web ưa thích thường truy cập, chúng ta nhấn nút ...",
+    "answer":"Favorites"
+  },
+  {
+    "question":"Để lướt web ta phải thực hiện ứng dụng nào sau đây ?",
+    "answer":"Google Chrome "
+  },
+  {
+    "question":"Để sử dụng thư điện tử, trước hết bạn phải làm gì ?",
+    "answer":"Đăng ký một tài khoản thư điện tử"
+  },
+  {
+    "question":"Địa chỉ trang web http\\:\/\/danang.edu.vn thì từ “edu” cho biết đây là trang...",
+    "answer":"Giáo dục"
+  },
+  {
+    "question":"Điều đầu tiên bạn nên làm khi thiết kế một Web site là gì?",
+    "answer":"Hoạch định cấu trúc cho Web site"
+  },
+  {
+    "question":"Email dùng để làm gì?",
+    "answer":"Gửi nhận thư điện tử thông qua mạng internet hoặc các mạng khác"
+  },
+  {
+    "question":"Giao thức chuẩn nào sau đây được sử dụng trong các mạng có thể kết nối với ...",
+    "answer":"TCP\/IP"
+  },
+  {
+    "question":"Hai người chat với nhau qua mạng Yahoo Messenger trong cùng một phòng nét?",
+    "answer":"Dữ liệu truyền về máy chủ Yahoo và quay về máy bên kia"
+  },
+  {
+    "question":"Hệ thống tên miền được tổ chức theo cấu trúc nào sau đây ?",
+    "answer":"Phân cấp hình cây"
+  },
+  {
+    "question":"Hội nghị trực tuyến khắc phục được các nhược điểm so với hội nghị truyền thố...",
+    "answer":"Tiết kiệm thời gian, chi phí và chuẩn bị tổ chức họp với thời gian ngắn"
+  },
+  {
+    "question":"Hội nghị trực tuyến là gì ?",
+    "answer":"Là giải pháp hỗ trợ nhiều người ở những địa điểm, vị trí địa lý khác nhau có thể cùng tham gia một cuộc họp từ xa; mà ở đó, họ có thể nghe, nói, nhìn thấy nhau như đang ở chung một phòng họp"
+  },
+  {
+    "question":"Khi mới khởi động trình duyệt, nút Back sẽ bị mờ đi là vì lý do gì ?",
+    "answer":"Nút Back tạm thời chưa có tác dụng, vì trong có trang web đã duyệt qua trước đó"
+  },
+  {
+    "question":"Khi một dòng chủ đề trong thư ta nhận được bắt đầu bằng chữ RE\\:; thì thông ...",
+    "answer":"Thư trả lời cho thư mà ta đã gởi trước đó"
+  },
+  {
+    "question":"Khi muốn lưu một trang Web lên máy tính cục bộ, bạn phải làm thao tác nào sau...",
+    "answer":"Kích phải chuột trên trang Web và chọn Save As"
+  },
+  {
+    "question":"Khi sử dụng trình duyệt Google Chrome, muốn mở thêm một cửa sổ trình duyệt ẩn...",
+    "answer":"Ấn tổ hợp phím Ctrl + Shift + N"
+  },
+  {
+    "question":"Loại phần mềm nào sau đây có xu hướng thâm nhập và cố gắng tạo các khe hở bảo...",
+    "answer":"Trojan Horse"
+  },
+  {
+    "question":"Lợi ích của hội nghị truyền hình \/ họp trực tuyến là gì ?",
+    "answer":"Tăng hiệu quả công việc\\: Khả năng tác nghiệp và chỉ đạo từ xa cao"
+  },
+  {
+    "question":"Lựa chọn nào sau đây là đúng khi nói về trạng thái của tường lửa Windows ...",
+    "answer":"Có thể bật \/ tắt"
+  },
+  {
+    "question":"Mạng Internet là gì ?",
+    "answer":"Mạng toàn cầu gồm tập hợp các mạng máy tính có thể được truy cập công cộng"
+  },
+  {
+    "question":"Một người đang sử dụng dịch vụ thư điện tử miễn phí của Google. Địa chỉ nào ...",
+    "answer":"alpha2005@gmail.com"
+  },
+  {
+    "question":"Một trang Web là gì?",
+    "answer":"Một tài liệu văn bản của World Wide Web và được viết bằng ngôn ngữ HTML"
+  },
+  {
+    "question":"Mozilla Firefox là gì ?",
+    "answer":"Trình duyệt Web"
+  },
+  {
+    "question":"Mục đích của Folder History trong trình duyệt Internet là gì ?",
+    "answer":"Để liệt kê tất cả các website đã viếng thăm (trang web đã truy cập)"
+  },
+  {
+    "question":"Muốn dừng truy cập trang Web hiện hành, ta thực hiện thao tác nào sau đây ?",
+    "answer":"Click vào nút Stop trên thanh công cụ"
+  },
+  {
+    "question":"Muốn trao đổi trực tuyến với người dùng khác trên mạng, bạn sử dụng dịch vụ ...",
+    "answer":"Tán gẫu (Chat)"
+  },
+  {
+    "question":"Ngôn ngữ hiển thị trên các trang Web phụ thuộc vào yếu tố nào sau đây ?",
+    "answer":"Ngôn ngữ mà người thiết kế Web quy định"
+  },
+  {
+    "question":"Những phần mềm nào dưới đây là dịch vụ tin nhắn tức thời (IM - Instant ...",
+    "answer":"Facebook, Google Hangout, Skype"
+  },
+  {
+    "question":"Nút \"Home\" trên trình duyệt web có nghĩa là gì ?",
+    "answer":"Quay về trang chủ"
+  },
+  {
+    "question":"Nút Back trên thanh công cụ của trình duyệt Web có tác dụng gì ?",
+    "answer":"Quay trở lại trang Web trước đó"
+  },
+  {
+    "question":"Phần mềm nào sau đây không phải trình duyệt Web ?",
+    "answer":"Windows Explorer"
+  },
+  {
+    "question":"Phát biểu nào dưới đây là sai ?",
+    "answer":"Nhấn nút BACK để đóng cửa sổ duyệt Web"
+  },
+  {
+    "question":"Phát biểu nào dưới đây là sai ?",
+    "answer":"Thư điện tử luôn có độ tin cậy, an toàn tuyệt đối"
+  },
+  {
+    "question":"Phát biểu nào sau đây sai ?",
+    "answer":"Thương mại điện tử hoàn toàn độc lập với các hoạt động thương mại truyền thống"
+  },
+  {
+    "question":"Quá trình kiểm tra để xác định xem thông tin về thẻ có chính xác không và số ...",
+    "answer":"Xác thực"
+  },
+  {
+    "question":"Siêu văn bản là gì ?",
+    "answer":"Là văn bản thường được tạo ra bởi ngôn ngữ HTML, tích hợp cả văn bản, âm thanh, hình ảnh"
+  },
+  {
+    "question":"Tên miền nào dưới đây là hợp lệ ?",
+    "answer":"www.giaoduc.edu.vn"
+  },
+  {
+    "question":"Tên viết tắt của tổ chức quản lý tên miền tại Việt nam là gì ?",
+    "answer":"VNNIC"
+  },
+  {
+    "question":"Thao tác nào là không thực hiện được với trang web ?",
+    "answer":"Xoá nội dung bằng cách chọn đoạn nội dung và nhấn nút Delete"
+  },
+  {
+    "question":"Thông thường, để có thể biết một tên miền là của nước nào, ta nên nhìn vào ...",
+    "answer":"Thành phần cuối cùng (bên phải)"
+  },
+  {
+    "question":"Thư mục nào chứa thư đangsoạn thảo nhưng chưa được gửi đi trong hộp mail của ...",
+    "answer":"Draft"
+  },
+  {
+    "question":"Thương mại điện tử là gì ?",
+    "answer":"Thực hiện các hoạt động thương mại qua mạng Internet"
+  },
+  {
+    "question":"Tin nhắn trực tuyến (Chat) – IM (Instant Messaging) là",
+    "answer":"Là dịch vụ cho phép hai người trở lên nói chuyện trực tuyến với nhau qua một mạng máy tính"
+  },
+  {
+    "question":"Trang Web nào sau đây không hỗ trợ chức năng tìm kiếm ?",
+    "answer":"vietnamnet.vn"
+  },
+  {
+    "question":"Trong các phát biểu sau về địa chỉ IP, phát biểu nào đúng ?",
+    "answer":"Mỗi máy tính tham gia mạng Internet phải có một địa chỉ duy nhất được gọi là địa chỉ IP"
+  },
+  {
+    "question":"Trong trình duyệt Internet chức năng của nút BACK  để làm gì ?",
+    "answer":"Quay lại trang mà bạn vừa mới xem trước đó"
+  },
+  {
+    "question":"Từ HTML là từ viết tắt của từ nào sau đây?",
+    "answer":"HyperText Markup Language"
+  },
+  {
+    "question":"Tường lửa (Firewall) là gì ?",
+    "answer":"Một hệ thống bao gồm cả phần cứng và phần mềm có mục đích chống lại sự xâm nhập trái phép từ Internet"
+  },
+  {
+    "question":"Với thư điện tử, phát biểu nào sau đây là sai ?",
+    "answer":"Hai người có thể có địa chỉ thư giống nhau, ví dụ hopthu@gmail.com"
+  },
+  {
+    "question":"Web Server là tên của máy chủ cung cấp dịch vụ nào sau đây ?",
+    "answer":"Dịch vụ WWW"
+  },
+  {
+    "question":"www.amazon.com là một website về mô hình làm gì ?",
+    "answer":"Bán hàng qua mạng, siêu thị điện tử, e-shop"
+  },
+  {
+    "question":"Yếu tố nào không phải lợi ích của dịch vụ ngân hàng điện tử ?",
+    "answer":"Tương tác trực tiếp với nhân viên ngân hàng"
+  }
+]
