@@ -1,0 +1,1202 @@
+[
+  {
+    "question": "Biện pháp bảo mật nào yêu cầu bạn cung cấp hai yếu tố xác thực khác nhau để chứng minh danh tính?",
+    "answer": "Xác thực hai yếu tố (Two-Factor Authentication)"
+  },
+  {
+    "question": "Biện pháp nào sau đây là quan trọng nhất để phòng chống phần mềm độc hại?",
+    "answer": "Cài đặt phần mềm diệt virus và cập nhật cơ sở dữ liệu thường xuyên."
+  },
+  {
+    "question": "Chữ 'S' trong giao thức 'HTTPS' có nghĩa là gì?",
+    "answer": "Secure (An toàn)"
+  },
+  {
+    "question": "Chức năng nào sau đây KHÔNG phải là chức năng chính của hệ điều hành?",
+    "answer": "Soạn thảo một bức thư"
+  },
+  {
+    "question": "CPU là viết tắt của cụm từ tiếng Anh nào?",
+    "answer": "Central Processing Unit"
+  },
+  {
+    "question": "Dấu vết dữ liệu bạn để lại khi sử dụng Internet được gọi là gì?",
+    "answer": "Dấu chân số (Digital footprint)"
+  },
+  {
+    "question": "Dịch vụ lưu trữ và cho phép truy cập dữ liệu của bạn từ xa thông qua Internet được gọi là gì?",
+    "answer": "Lưu trữ đám mây (Cloud Storage)"
+  },
+  {
+    "question": "Để bảo vệ mắt khi làm việc với máy tính, bạn nên làm gì?",
+    "answer": "Áp dụng quy tắc 20-20-20 (20 phút làm việc, nhìn ra xa 20 feet trong 20 giây)."
+  },
+  {
+    "question": "Để tạo một mật khẩu mạnh, bạn nên làm gì?",
+    "answer": "Kết hợp chữ hoa, chữ thường, số và ký tự đặc biệt, có độ dài ít nhất 8 ký tự."
+  },
+  {
+    "question": "Đơn vị nào sau đây dùng để đo tốc độ truyền dữ liệu trên mạng?",
+    "answer": "Mbps (Megabits per second)"
+  },
+  {
+    "question": "Giao diện người dùng đồ họa được viết tắt là gì?",
+    "answer": "GUI (Graphical User Interface)"
+  },
+  {
+    "question": "Hành động nào sau đây góp phần bảo vệ môi trường khi sử dụng máy tính?",
+    "answer": "Kích hoạt chế độ tiết kiệm điện (Power Saving) và tắt máy khi không sử dụng."
+  },
+  {
+    "question": "Hành vi lừa đảo trực tuyến nhằm lấy cắp thông tin nhạy cảm (như mật khẩu, thông tin thẻ tín dụng) bằng cách giả mạo thành một đơn vị uy tín được gọi là gì?",
+    "answer": "Phishing"
+  },
+  {
+    "question": "Hành vi mua bán hàng hóa và dịch vụ thông qua Internet và các phương tiện điện tử được gọi là gì?",
+    "answer": "E-Commerce (Thương mại điện tử)"
+  },
+  {
+    "question": "Hành vi sử dụng công nghệ số để quấy rối, đe dọa hoặc làm bẽ mặt người khác một cách có chủ ý và lặp đi lặp lại được gọi là gì?",
+    "answer": "Cyberbullying (Bắt nạt qua mạng)"
+  },
+  {
+    "question": "Hệ thống có chức năng phân giải tên miền (ví dụ\\: [www.google.com](https\\://www.google.com)) thành địa chỉ IP (ví dụ\\: 8.8.8.8) được gọi là gì?",
+    "answer": "DNS (Domain Name System)"
+  },
+  {
+    "question": "Hình thức học tập, đào tạo thông qua các thiết bị và mạng máy tính được gọi là gì?",
+    "answer": "E-Learning"
+  },
+  {
+    "question": "Internet là gì?",
+    "answer": "Là một hệ thống mạng máy tính toàn cầu kết nối hàng triệu máy tính với nhau."
+  },
+  {
+    "question": "Loại phần mềm độc hại nào bí mật thu thập thông tin từ máy tính của người dùng mà họ không hề hay biết?",
+    "answer": "Spyware (Phần mềm gián điệp)"
+  },
+  {
+    "question": "Loại phần mềm độc hại nào chuyên mã hóa dữ liệu của nạn nhân và đòi tiền chuộc để giải mã?",
+    "answer": "Ransomware"
+  },
+  {
+    "question": "Loại phần mềm độc hại nào có khả năng tự nhân bản và lây lan qua mạng máy tính mà không cần sự tương tác của người dùng?",
+    "answer": "Worm (Sâu máy tính)"
+  },
+  {
+    "question": "Loại phần mềm độc hại nào ngụy trang thành một chương trình hợp pháp, hữu ích để lừa người dùng cài đặt?",
+    "answer": "Trojan Horse"
+  },
+  {
+    "question": "Lợi ích nào sau đây KHÔNG phải là lợi ích của Chính phủ điện tử (E-Government)?",
+    "answer": "Yêu cầu mọi công dân phải có máy tính cá nhân."
+  },
+  {
+    "question": "Luật nào của Việt Nam quy định về các hoạt động trong không gian mạng, các biện pháp bảo vệ an ninh mạng?",
+    "answer": "Luật An ninh mạng"
+  },
+  {
+    "question": "Mạng máy tính kết nối các máy tính trong một phạm vi địa lý hẹp như một tòa nhà hoặc một văn phòng được gọi là gì?",
+    "answer": "LAN (Local Area Network)"
+  },
+  {
+    "question": "Một Bit có thể biểu diễn được bao nhiêu giá trị?",
+    "answer": "2 (0 hoặc 1)"
+  },
+  {
+    "question": "Một hệ thống an ninh mạng, có thể là phần cứng hoặc phần mềm, giúp giám sát và kiểm soát lưu lượng mạng ra vào dựa trên các quy tắc bảo mật được thiết lập sẵn, được gọi là gì?",
+    "answer": "Firewall (Tường lửa)"
+  },
+  {
+    "question": "Một phần mềm được thiết kế để gây hại cho máy tính, đánh cắp dữ liệu hoặc phá hoại hệ thống được gọi chung là gì?",
+    "answer": "Malware (Phần mềm độc hại)"
+  },
+  {
+    "question": "Một tệp văn bản nhỏ mà các trang web lưu trữ trên máy tính của bạn để ghi nhớ thông tin về bạn được gọi là gì?",
+    "answer": "Cookie"
+  },
+  {
+    "question": "Phần mềm được cung cấp miễn phí để dùng thử trong một khoảng thời gian giới hạn hoặc với các tính năng bị hạn chế được gọi là gì?",
+    "answer": "Shareware"
+  },
+  {
+    "question": "Phần mềm nào đi kèm với mã nguồn, cho phép người dùng xem, sửa đổi và phân phối lại?",
+    "answer": "Open Source Software (Phần mềm nguồn mở)"
+  },
+  {
+    "question": "Phần mềm nào sau đây KHÔNG phải là một dịch vụ lưu trữ đám mây?",
+    "answer": "Microsoft PowerPoint"
+  },
+  {
+    "question": "Phương thức kết nối Internet nào sử dụng sóng vô tuyến để truyền tín hiệu?",
+    "answer": "Wi-Fi"
+  },
+  {
+    "question": "Quyền của tác giả đối với tác phẩm do mình sáng tạo ra (ví dụ\\: phần mềm, sách, bài hát) được gọi là gì?",
+    "answer": "Quyền tác giả (Copyright)"
+  },
+  {
+    "question": "Sự khác biệt chính giữa Internet và World Wide Web (WWW) là gì?",
+    "answer": "Internet là cơ sở hạ tầng mạng lưới, còn World Wide Web là một dịch vụ chạy trên Internet."
+  },
+  {
+    "question": "Thành phần nào được coi là \"bộ não\" của máy tính, chịu trách nhiệm thực thi các lệnh của chương trình?",
+    "answer": "CPU (Bộ xử lý trung tâm)"
+  },
+  {
+    "question": "Thiết bị nào có chức năng chuyển đổi tín hiệu số từ máy tính thành tín hiệu analog để truyền qua đường dây điện thoại và ngược lại?",
+    "answer": "Modem"
+  },
+  {
+    "question": "Thiết bị nào có chức năng kết nối nhiều mạng máy tính với nhau và định tuyến các gói tin đến đúng đích?",
+    "answer": "Router"
+  },
+  {
+    "question": "Thiết bị nào sau đây là thiết bị vật lý của máy tính mà người dùng có thể chạm vào được?",
+    "answer": "Phần cứng"
+  },
+  {
+    "question": "Thiết bị nào sau đây vừa là thiết bị đầu vào, vừa là thiết bị đầu ra?",
+    "answer": "Màn hình cảm ứng (Touchscreen)"
+  },
+  {
+    "question": "Thuật ngữ \"Download\" có nghĩa là gì?",
+    "answer": "Tải dữ liệu từ một máy chủ trên mạng về máy tính của bạn."
+  },
+  {
+    "question": "Thuật ngữ \"Upload\" có nghĩa là gì?",
+    "answer": "Gửi dữ liệu từ máy tính của bạn lên một máy chủ trên mạng."
+  },
+  {
+    "question": "Trong các loại giấy phép phần mềm, loại nào cho phép người dùng sử dụng phần mềm miễn phí mà không có giới hạn?",
+    "answer": "Freeware (Phần mềm miễn phí)"
+  },
+  {
+    "question": "Trong kiến trúc máy tính, bộ phận nào thực hiện các phép tính số học (cộng, trừ, nhân, chia) và logic (AND, OR, NOT)?",
+    "answer": "ALU (Arithmetic Logic Unit - Khối số học và logic)"
+  },
+  {
+    "question": "URL là viết tắt của cụm từ nào?",
+    "answer": "Uniform Resource Locator"
+  },
+  {
+    "question": "Vấn đề sức khỏe nào sau đây thường KHÔNG liên quan trực tiếp đến việc sử dụng máy tính trong thời gian dài?",
+    "answer": "Bệnh về đường tiêu hóa"
+  },
+  {
+    "question": "Việc chính phủ ứng dụng công nghệ thông tin để cung cấp dịch vụ công cho người dân và doanh nghiệp được gọi là gì?",
+    "answer": "E-Government (Chính phủ điện tử)"
+  },
+  {
+    "question": "Việc làm nào sau đây KHÔNG được khuyến khích khi thực hiện giao dịch trực tuyến?",
+    "answer": "Thực hiện giao dịch bằng mạng Wi-Fi công cộng không có mật khẩu."
+  },
+  {
+    "question": "Việc sao chép, sử dụng tác phẩm, ý tưởng của người khác mà không ghi nhận nguồn gốc hoặc tác giả được gọi là gì?",
+    "answer": "Đạo văn (Plagiarism)"
+  },
+  {
+    "question": "Việc thực hiện các giao dịch ngân hàng như chuyển tiền, thanh toán hóa đơn qua Internet được gọi là gì?",
+    "answer": "E-banking (Ngân hàng điện tử)"
+  },
+  {
+    "question": "\"Control Panel\" trong Windows dùng để làm gì?",
+    "answer": "Cấu hình và quản lý các cài đặt của hệ thống"
+  },
+  {
+    "question": "\"Firewall\" (Tường lửa) trong máy tính có vai trò gì?",
+    "answer": "Ngăn chặn truy cập trái phép vào hoặc ra khỏi một mạng máy tính"
+  },
+  {
+    "question": "\"GUI\" là viết tắt của thuật ngữ nào?",
+    "answer": "Graphical User Interface"
+  },
+  {
+    "question": "\"RAM\" là viết tắt của thuật ngữ nào?",
+    "answer": "Random Access Memory"
+  },
+  {
+    "question": "Biểu tượng nào trên màn hình Desktop cho phép truy cập vào các ổ đĩa và thiết bị lưu trữ của máy tính?",
+    "answer": "This PC (hoặc My Computer)"
+  },
+  {
+    "question": "Chức năng \"Sleep\" (Ngủ) của máy tính có ý nghĩa gì?",
+    "answer": "Đưa máy tính vào trạng thái tiêu thụ ít điện năng, cho phép quay lại làm việc nhanh chóng"
+  },
+  {
+    "question": "Chức năng chính của CPU (Central Processing Unit) trong máy tính là gì?",
+    "answer": "Xử lý các lệnh và thực hiện các phép toán"
+  },
+  {
+    "question": "Chức năng của \"Recycle Bin\" là gì?",
+    "answer": "Chứa các tệp và thư mục đã bị xóa tạm thời"
+  },
+  {
+    "question": "Đâu là một ví dụ về phần mềm ứng dụng?",
+    "answer": "Microsoft Excel"
+  },
+  {
+    "question": "Đâu là tên của trình duyệt web được cài đặt mặc định cùng với hệ điều hành Windows 10 và các phiên bản mới hơn?",
+    "answer": "Microsoft Edge"
+  },
+  {
+    "question": "Để cài đặt một phần mềm mới vào máy tính, bạn thường phải chạy tệp nào?",
+    "answer": "Tệp có đuôi .exe hoặc .msi"
+  },
+  {
+    "question": "Để chụp ảnh toàn bộ màn hình hiện tại và sao chép vào clipboard, bạn nhấn phím nào?",
+    "answer": "Print Screen (PrtScn)"
+  },
+  {
+    "question": "Để dán (paste) một đối tượng đã được sao chép hoặc cắt, bạn sử dụng tổ hợp phím nào?",
+    "answer": "Ctrl + V"
+  },
+  {
+    "question": "Để đổi tên một tệp tin hoặc thư mục đã chọn, bạn có thể sử dụng phím nào trên bàn phím?",
+    "answer": "F2"
+  },
+  {
+    "question": "Để giải nén một tệp tin có định dạng .zip, bạn thường làm gì?",
+    "answer": "Nhấn chuột phải vào tệp tin và chọn \"Extract All...\" hoặc \"Giải nén...\""
+  },
+  {
+    "question": "Để gỡ bỏ một phần mềm đã cài đặt trên Windows, phương pháp đúng đắn nhất là gì?",
+    "answer": "Sử dụng tính năng \"Apps & features\" (hoặc \"Programs and Features\" trong Control Panel)"
+  },
+  {
+    "question": "Để kết nối vào mạng không dây (Wi-Fi), bạn cần chọn biểu tượng nào trên thanh tác vụ?",
+    "answer": "Biểu tượng mạng (thường là hình cột sóng hoặc quả địa cầu)"
+  },
+  {
+    "question": "Để tạo một thư mục mới trên màn hình Desktop của Windows, bạn thực hiện thao tác nào?",
+    "answer": "Nhấn chuột phải vào vùng trống trên Desktop, chọn New, sau đó chọn Folder"
+  },
+  {
+    "question": "Để thay đổi âm lượng của hệ thống, bạn thường nhấn vào biểu tượng nào trên thanh tác vụ?",
+    "answer": "Biểu tượng loa (Speaker)"
+  },
+  {
+    "question": "Để thay đổi hình nền cho màn hình Desktop, bạn cần thực hiện thao tác nào sau đây?",
+    "answer": "Nhấn chuột phải vào Desktop > Personalize"
+  },
+  {
+    "question": "Để tìm kiếm một tệp tin hoặc ứng dụng trong Windows, bạn có thể sử dụng công cụ nào trên Taskbar?",
+    "answer": "Search bar (Thanh tìm kiếm)"
+  },
+  {
+    "question": "Để xem các thông tin chi tiết của một tệp tin như ngày tạo, kích thước, bạn cần làm gì?",
+    "answer": "Nhấn chuột phải vào tệp tin và chọn Properties"
+  },
+  {
+    "question": "Để xem danh sách các máy in đã được cài đặt, bạn vào đâu trong Control Panel?",
+    "answer": "Hardware and Sound > Devices and Printers"
+  },
+  {
+    "question": "Đơn vị đo dung lượng lưu trữ thông tin nhỏ nhất trong máy tính là gì?",
+    "answer": "Bit"
+  },
+  {
+    "question": "Đuôi tệp (file extension) \".txt\" thường cho biết tệp đó là loại gì?",
+    "answer": "Tệp văn bản thuần túy (Plain Text)"
+  },
+  {
+    "question": "Hành động \"double-click\" (nhấn đúp chuột) thường được dùng để làm gì?",
+    "answer": "Mở một tệp tin hoặc khởi chạy một ứng dụng"
+  },
+  {
+    "question": "Hệ điều hành là gì?",
+    "answer": "Phần mềm nền tảng quản lý tất cả phần cứng và phần mềm trên máy tính"
+  },
+  {
+    "question": "Khi bạn định dạng (format) một ổ đĩa USB, điều gì sẽ xảy ra với dữ liệu trên đó?",
+    "answer": "Toàn bộ dữ liệu sẽ bị xóa"
+  },
+  {
+    "question": "Khi bạn xóa một tệp tin bằng cách nhấn phím Delete, tệp tin đó sẽ được chuyển đến đâu?",
+    "answer": "Được chuyển vào Thùng rác (Recycle Bin)"
+  },
+  {
+    "question": "Khi một cửa sổ ứng dụng đang ở chế độ phóng to (Maximize), biểu tượng ở góc trên bên phải của cửa sổ sẽ thay đổi thành gì để thu nhỏ lại kích thước ban đầu?",
+    "answer": "Biểu tượng Restore Down"
+  },
+  {
+    "question": "Một Byte tương đương với bao nhiêu Bit?",
+    "answer": "8 Bits"
+  },
+  {
+    "question": "Phần mềm nào không phải là một hệ điều hành?",
+    "answer": "Google Chrome"
+  },
+  {
+    "question": "Phần mềm nào sau đây có chức năng chính là bảo vệ máy tính khỏi virus và các phần mềm độc hại khác?",
+    "answer": "Antivirus software (ví dụ\\: Windows Defender, Kaspersky)"
+  },
+  {
+    "question": "Phần mềm nào sau đây là một hệ điều hành?",
+    "answer": "Microsoft Windows"
+  },
+  {
+    "question": "Phần mở rộng mặc định của một tệp tin được tạo bởi Microsoft Word là gì?",
+    "answer": ".docx"
+  },
+  {
+    "question": "Tên gọi khác của thư mục trong hệ điều hành máy tính là gì?",
+    "answer": "Folder"
+  },
+  {
+    "question": "Thao tác nào sau đây dùng để tắt máy tính một cách an toàn?",
+    "answer": "Chọn Start Menu, sau đó chọn Power và chọn Shut down"
+  },
+  {
+    "question": "Thiết bị nào sau đây dùng để lưu trữ dữ liệu lâu dài ngay cả khi đã tắt máy?",
+    "answer": "Ổ đĩa cứng (HDD/SSD)"
+  },
+  {
+    "question": "Thiết bị nào sau đây là thiết bị nhập (input device)?",
+    "answer": "Chuột (Mouse)"
+  },
+  {
+    "question": "Tổ hợp phím Alt + Tab dùng để làm gì?",
+    "answer": "Chuyển đổi qua lại giữa các cửa sổ ứng dụng đang mở"
+  },
+  {
+    "question": "Tổ hợp phím Ctrl + F thường được sử dụng để làm gì trong nhiều ứng dụng?",
+    "answer": "Tìm kiếm (Find)"
+  },
+  {
+    "question": "Tổ hợp phím nào dùng để sao chép (copy) một tệp tin hoặc thư mục đã chọn?",
+    "answer": "Ctrl + C"
+  },
+  {
+    "question": "Tổ hợp phím nào được sử dụng để mở trình quản lý tác vụ (Task Manager) trong Windows?",
+    "answer": "Ctrl + Shift + Esc"
+  },
+  {
+    "question": "Tổ hợp phím Windows + D có chức năng gì?",
+    "answer": "Hiển thị hoặc ẩn màn hình Desktop"
+  },
+  {
+    "question": "Tổ hợp phím Windows + E có chức năng gì?",
+    "answer": "Mở File Explorer"
+  },
+  {
+    "question": "Tổ hợp phím Windows + L dùng để làm gì?",
+    "answer": "Khóa màn hình (Lock)"
+  },
+  {
+    "question": "Trong cửa sổ File Explorer, để chọn tất cả các tệp tin và thư mục, bạn sử dụng tổ hợp phím nào?",
+    "answer": "Ctrl + A"
+  },
+  {
+    "question": "Trong File Explorer, chế độ xem nào cho phép bạn thấy hình ảnh thu nhỏ của các tệp hình ảnh?",
+    "answer": "Large icons hoặc Tiles"
+  },
+  {
+    "question": "Trong hệ điều hành Windows, đâu là nơi chứa các cài đặt và tùy chọn cho hệ thống?",
+    "answer": "Control Panel / Settings"
+  },
+  {
+    "question": "Trong hệ điều hành Windows, thanh chứa nút Start, các biểu tượng chương trình đang chạy và đồng hồ hệ thống được gọi là gì?",
+    "answer": "Thanh tác vụ (Taskbar)"
+  },
+  {
+    "question": "Chế độ xem \"Read Mode\" tối ưu cho việc gì?",
+    "answer": "Đọc văn bản trên màn hình"
+  },
+  {
+    "question": "Chức năng \"Find\" (Ctrl + F) trong Microsoft Word dùng để làm gì?",
+    "answer": "Tìm kiếm một từ hoặc cụm từ"
+  },
+  {
+    "question": "Chức năng \"Header\" trong thẻ Insert dùng để làm gì?",
+    "answer": "Tạo tiêu đề đầu trang"
+  },
+  {
+    "question": "Chức năng \"Line and Paragraph Spacing\" dùng để làm gì?",
+    "answer": "Điều chỉnh khoảng cách giữa các dòng và các đoạn"
+  },
+  {
+    "question": "Chức năng \"Shading\" trong Table Tools -> Design dùng để làm gì?",
+    "answer": "Tô màu nền cho ô hoặc bảng"
+  },
+  {
+    "question": "Chức năng \"Split Cells\" trong bảng dùng để làm gì?",
+    "answer": "Tách một ô thành nhiều ô"
+  },
+  {
+    "question": "Chức năng \"WordArt\" dùng để làm gì?",
+    "answer": "Tạo chữ nghệ thuật"
+  },
+  {
+    "question": "Chức năng \"Zoom\" trong thẻ View dùng để làm gì?",
+    "answer": "Phóng to hoặc thu nhỏ chế độ xem tài liệu"
+  },
+  {
+    "question": "Chức năng chia văn bản thành nhiều cột (Columns) nằm ở đâu?",
+    "answer": "Page Layout -> Columns"
+  },
+  {
+    "question": "Chức năng đánh số trang tự động nằm ở đâu?",
+    "answer": "Insert -> Page Number"
+  },
+  {
+    "question": "Chức năng Redo (Làm lại thao tác) có phím tắt là gì?",
+    "answer": "Ctrl + Y"
+  },
+  {
+    "question": "Công cụ \"Bullets\" trong nhóm Paragraph dùng để làm gì?",
+    "answer": "Tạo danh sách không có thứ tự (dấu đầu dòng)"
+  },
+  {
+    "question": "Công cụ \"Wrap Text\" trong thẻ Picture Tools -> Format dùng để làm gì?",
+    "answer": "Điều chỉnh cách văn bản bao quanh hình ảnh"
+  },
+  {
+    "question": "Để căn đều hai bên cho một đoạn văn, bạn sử dụng phím tắt nào?",
+    "answer": "Ctrl + J"
+  },
+  {
+    "question": "Để căn lề phải cho văn bản, bạn nhấn tổ hợp phím nào?",
+    "answer": "Ctrl + R"
+  },
+  {
+    "question": "Để căn lề trái cho một đoạn văn, bạn dùng phím tắt nào?",
+    "answer": "Ctrl + L"
+  },
+  {
+    "question": "Để chèn một bảng vào văn bản, bạn vào thẻ nào?",
+    "answer": "Insert"
+  },
+  {
+    "question": "Để chèn một dấu ngắt trang (Page Break), bạn nhấn tổ hợp phím nào?",
+    "answer": "Ctrl + Enter"
+  },
+  {
+    "question": "Để chèn một hình ảnh từ máy tính vào văn bản, bạn chọn?",
+    "answer": "Insert -> Pictures"
+  },
+  {
+    "question": "Để chèn một hình vẽ (như hình chữ nhật, mũi tên), bạn sử dụng chức năng nào?",
+    "answer": "Insert -> Shapes"
+  },
+  {
+    "question": "Để chèn một ký tự đặc biệt (ví dụ ©, ®), bạn sử dụng chức năng nào?",
+    "answer": "Insert -> Symbol"
+  },
+  {
+    "question": "Để dán nội dung đã sao chép hoặc cắt, bạn sử dụng tổ hợp phím nào?",
+    "answer": "Ctrl + V"
+  },
+  {
+    "question": "Để di chuyển về ô phía trước trong bảng, bạn nhấn tổ hợp phím nào?",
+    "answer": "Shift + Tab"
+  },
+  {
+    "question": "Để gạch chân một đoạn văn bản, bạn sử dụng tổ hợp phím nào?",
+    "answer": "Ctrl + U"
+  },
+  {
+    "question": "Để kiểm tra lỗi chính tả và ngữ pháp, bạn vào thẻ nào?",
+    "answer": "Review"
+  },
+  {
+    "question": "Để làm cho chữ đậm, bạn nhấn tổ hợp phím nào?",
+    "answer": "Ctrl + B"
+  },
+  {
+    "question": "Để sao chép định dạng của một đoạn văn bản và áp dụng cho đoạn khác, bạn dùng công cụ nào?",
+    "answer": "Format Painter"
+  },
+  {
+    "question": "Để tăng kích thước phông chữ, bạn có thể nhấn tổ hợp phím nào?",
+    "answer": "Ctrl +]"
+  },
+  {
+    "question": "Để tạo danh sách có thứ tự (đánh số), bạn chọn công cụ nào?",
+    "answer": "Numbering"
+  },
+  {
+    "question": "Để tạo một Drop Cap (chữ to đầu đoạn), bạn vào thẻ nào?",
+    "answer": "Insert"
+  },
+  {
+    "question": "Để tạo tiêu đề chân trang, bạn chọn chức năng nào?",
+    "answer": "Insert -> Footer"
+  },
+  {
+    "question": "Để thay đổi kích thước khổ giấy (ví dụ A4, Letter), bạn chọn?",
+    "answer": "Page Layout -> Size"
+  },
+  {
+    "question": "Để thay đổi phông chữ cho văn bản, bạn sử dụng nhóm công cụ nào trong thẻ Home?",
+    "answer": "Font"
+  },
+  {
+    "question": "Để thay thế một từ hoặc cụm từ bằng một từ hoặc cụm từ khác trong toàn bộ văn bản, bạn dùng chức năng nào?",
+    "answer": "Replace"
+  },
+  {
+    "question": "Để thêm một dòng mới ở cuối bảng, bạn đặt con trỏ ở ô cuối cùng và nhấn phím gì?",
+    "answer": "Tab"
+  },
+  {
+    "question": "Để thiết lập lề cho trang giấy (Margins), bạn vào đâu?",
+    "answer": "Page Layout -> Margins"
+  },
+  {
+    "question": "Để thụt lề đầu dòng của một đoạn văn, bạn có thể sử dụng phím nào trên bàn phím?",
+    "answer": "Tab"
+  },
+  {
+    "question": "Làm thế nào để thay đổi đường viền cho bảng (Table Borders)?",
+    "answer": "Table Tools -> Design -> Borders"
+  },
+  {
+    "question": "Lệnh \"Change Case\" trong nhóm Font dùng để làm gì?",
+    "answer": "Thay đổi kiểu chữ hoa/thường"
+  },
+  {
+    "question": "Phím tắt để bắt đầu kiểm tra chính tả là gì?",
+    "answer": "F7"
+  },
+  {
+    "question": "Tổ hợp phím Ctrl + E trong Microsoft Word có chức năng gì?",
+    "answer": "Căn lề giữa"
+  },
+  {
+    "question": "Tổ hợp phím Ctrl + I được sử dụng để làm gì?",
+    "answer": "In nghiêng chữ"
+  },
+  {
+    "question": "Tổ hợp phím Ctrl + Shift + C dùng để làm gì?",
+    "answer": "Chỉ sao chép định dạng"
+  },
+  {
+    "question": "Tổ hợp phím Ctrl + Shift + V có chức năng gì?",
+    "answer": "Dán định dạng đã sao chép"
+  },
+  {
+    "question": "Tổ hợp phím Ctrl + X trong Microsoft Word có chức năng gì?",
+    "answer": "Cắt văn bản"
+  },
+  {
+    "question": "Tổ hợp phím để hoàn tác (Undo) thao tác vừa thực hiện là gì?",
+    "answer": "Ctrl + Z"
+  },
+  {
+    "question": "Trong bảng (Table), để di chuyển đến ô tiếp theo, bạn có thể nhấn phím nào?",
+    "answer": "Tab"
+  },
+  {
+    "question": "Trong chế độ xem \"Print Layout\", bạn thấy văn bản như thế nào?",
+    "answer": "Giống như khi được in ra giấy"
+  },
+  {
+    "question": "Trong hộp thoại Paragraph, tùy chọn \"Indentation\" dùng để thiết lập gì?",
+    "answer": "Thụt lề cho đoạn văn"
+  },
+  {
+    "question": "Trong thẻ Table Tools -> Layout, chức năng \"Merge Cells\" dùng để làm gì?",
+    "answer": "Gộp nhiều ô thành một ô"
+  },
+  {
+    "question": "Chức năng \"Conditional Formatting\" trong thẻ Home dùng để làm gì?",
+    "answer": "Tự động định dạng các ô dựa trên một điều kiện cho trước"
+  },
+  {
+    "question": "Chức năng \"Wrap Text\" trong Excel dùng để làm gì?",
+    "answer": "Tự động xuống dòng khi dữ liệu dài hơn độ rộng của ô"
+  },
+  {
+    "question": "Công thức \\=\"Ha\" & \" \" & \"Noi\" sẽ trả về kết quả gì?",
+    "answer": "Ha Noi"
+  },
+  {
+    "question": "Công thức \\=TODAY() trong Excel trả về kết quả gì?",
+    "answer": "Ngày hiện tại của hệ thống"
+  },
+  {
+    "question": "Công thức trong Excel phải bắt đầu bằng ký tự nào?",
+    "answer": ""
+  },
+  {
+    "question": "Để bật/tắt lưới (Gridlines) trên trang tính, bạn vào thẻ nào?",
+    "answer": "View"
+  },
+  {
+    "question": "Để chèn một ký tự đặc biệt (ví dụ\\: ©, ®, ™), bạn vào thẻ Insert và chọn lệnh nào?",
+    "answer": "Symbol"
+  },
+  {
+    "question": "Để chèn một siêu liên kết (Hyperlink) vào một ô, bạn sử dụng tổ hợp phím nào?",
+    "answer": "Ctrl + K"
+  },
+  {
+    "question": "Để cố định dòng tiêu đề khi cuộn trang tính, bạn sử dụng tính năng nào?",
+    "answer": "Freeze Panes"
+  },
+  {
+    "question": "Để gộp nhiều ô thành một ô duy nhất, bạn sử dụng lệnh nào?",
+    "answer": "Merge & Center"
+  },
+  {
+    "question": "Để sao chép định dạng của một ô, bạn sử dụng công cụ nào trong thẻ Home?",
+    "answer": "Format Painter"
+  },
+  {
+    "question": "Để sắp xếp dữ liệu trong bảng tính, bạn sử dụng tính năng nào trong thẻ Data?",
+    "answer": "Sort"
+  },
+  {
+    "question": "Để tạo biểu đồ trong Excel, bạn chọn dữ liệu và vào thẻ nào?",
+    "answer": "Insert"
+  },
+  {
+    "question": "Để thay đổi hướng của văn bản trong ô (ví dụ\\: xoay nghiêng), bạn dùng tính năng nào?",
+    "answer": "Orientation"
+  },
+  {
+    "question": "Để thay đổi loại biểu đồ đã tạo, bạn làm gì?",
+    "answer": "Chọn biểu đồ, vào thẻ Design -> Change Chart Type"
+  },
+  {
+    "question": "Để thiết lập vùng in cho một trang tính, bạn cần làm gì?",
+    "answer": "Bôi đen vùng cần in, vào Page Layout -> Print Area -> Set Print Area"
+  },
+  {
+    "question": "Để tìm kiếm và thay thế dữ liệu trong Excel, bạn sử dụng tổ hợp phím nào?",
+    "answer": "Ctrl + H"
+  },
+  {
+    "question": "Để xem trước trang in, bạn chọn lệnh nào?",
+    "answer": "File -> Print (Print Preview)"
+  },
+  {
+    "question": "Để xóa một trang tính (worksheet), bạn làm gì?",
+    "answer": "Nhấn chuột phải vào tên trang tính và chọn Delete"
+  },
+  {
+    "question": "Hàm IF trong Excel thuộc nhóm hàm nào?",
+    "answer": "Hàm logic"
+  },
+  {
+    "question": "Hàm LEFT(\"HaNoi\", 2) trả về kết quả là gì?",
+    "answer": "Ha"
+  },
+  {
+    "question": "Hàm LEN(\"Excel 2016\") trả về kết quả là bao nhiêu?",
+    "answer": "10"
+  },
+  {
+    "question": "Hàm MID(\"SaiGon\", 2, 2) trả về kết quả là gì?",
+    "answer": "ai"
+  },
+  {
+    "question": "Hàm nào dùng để đếm số lượng các ô chứa dữ liệu kiểu số trong một vùng?",
+    "answer": "COUNT"
+  },
+  {
+    "question": "Hàm nào dùng để đếm số lượng các ô không rỗng (chứa cả số và chữ) trong một vùng?",
+    "answer": "COUNTA"
+  },
+  {
+    "question": "Hàm nào dùng để tính giá trị trung bình cộng của một dãy số?",
+    "answer": "AVERAGE"
+  },
+  {
+    "question": "Hàm nào được sử dụng để tìm giá trị lớn nhất trong một dãy số?",
+    "answer": "MAX"
+  },
+  {
+    "question": "Hàm nào được sử dụng để tìm giá trị nhỏ nhất trong một dãy số?",
+    "answer": "MIN"
+  },
+  {
+    "question": "Hàm nào trong Excel dùng để tính tổng các giá trị trong một vùng?",
+    "answer": "SUM"
+  },
+  {
+    "question": "Hàm RIGHT(\"VietNam\", 3) trả về kết quả là gì?",
+    "answer": "Nam"
+  },
+  {
+    "question": "Hàm ROUND(123.456, 2) sẽ cho kết quả là bao nhiêu?",
+    "answer": "123.46"
+  },
+  {
+    "question": "Hàm VLOOKUP được sử dụng để làm gì?",
+    "answer": "Tìm kiếm giá trị trong cột đầu tiên của một bảng và trả về giá trị tương ứng từ một cột khác"
+  },
+  {
+    "question": "Khi nhập dữ liệu kiểu số vào một ô, mặc định dữ liệu sẽ được căn lề như thế nào?",
+    "answer": "Căn phải"
+  },
+  {
+    "question": "Khi nhập dữ liệu kiểu văn bản (text) vào một ô, mặc định dữ liệu sẽ được căn lề như thế nào?",
+    "answer": "Căn trái"
+  },
+  {
+    "question": "Loại biểu đồ nào thích hợp nhất để thể hiện tỷ lệ phần trăm của các thành phần trong một tổng thể?",
+    "answer": "Biểu đồ tròn (Pie Chart)"
+  },
+  {
+    "question": "Lỗi \\#DIV/0! trong công thức Excel có nghĩa là gì?",
+    "answer": "Công thức thực hiện một phép chia cho 0"
+  },
+  {
+    "question": "Lỗi \\#NAME? trong công thức Excel có nghĩa là gì?",
+    "answer": "Excel không nhận ra tên hàm, tên vùng hoặc tên hằng số trong công thức"
+  },
+  {
+    "question": "Lỗi \\#VALUE! trong công thức Excel xuất hiện khi nào?",
+    "answer": "Kiểu dữ liệu của một đối số trong công thức không phù hợp với yêu cầu của hàm/toán tử"
+  },
+  {
+    "question": "Phím tắt để chỉnh sửa nội dung của một ô đang chọn là gì?",
+    "answer": "F2"
+  },
+  {
+    "question": "Tính năng Filter (lọc) trong Excel dùng để làm gì?",
+    "answer": "Hiển thị các dòng dữ liệu thỏa mãn một điều kiện nhất định"
+  },
+  {
+    "question": "Tổ hợp phím nào dùng để di chuyển đến ô A1 của trang tính?",
+    "answer": "Ctrl + Home"
+  },
+  {
+    "question": "Toán tử nào được sử dụng để nối chuỗi trong Excel?",
+    "answer": "& (dấu và)"
+  },
+  {
+    "question": "Trong biểu đồ, \"Legend\" (chú giải) có chức năng gì?",
+    "answer": "Giải thích ý nghĩa của các chuỗi dữ liệu (series) trong biểu đồ"
+  },
+  {
+    "question": "Trong cửa sổ \"Format Cells\", thẻ nào dùng để kẻ đường viền cho ô?",
+    "answer": "Border"
+  },
+  {
+    "question": "Trong cửa sổ \"Format Cells\", thẻ nào dùng để tô màu nền cho ô?",
+    "answer": "Fill"
+  },
+  {
+    "question": "Trong Excel, công thức \\=SUM(A1\\:A5) tương đương với công thức nào sau đây?",
+    "answer": "A1+A2+A3+A4, SUM(A1,A5), TOTAL(A1\\:A5), A1+A2+A3+A4+A5"
+  },
+  {
+    "question": "Trong Excel, địa chỉ $A$1 là loại địa chỉ gì?",
+    "answer": "Địa chỉ tuyệt đối"
+  },
+  {
+    "question": "Trong Excel, địa chỉ A$1 là loại địa chỉ gì?",
+    "answer": "Địa chỉ hỗn hợp (dòng tuyệt đối, cột tương đối)"
+  },
+  {
+    "question": "Trong Excel, địa chỉ A1 là loại địa chỉ gì?",
+    "answer": "Địa chỉ tương đối"
+  },
+  {
+    "question": "Trong hàm IF(logical_test, value_if_true, value_if_false), tham số \"value_if_false\" có ý nghĩa gì?",
+    "answer": "Là giá trị trả về nếu điều kiện sai"
+  },
+  {
+    "question": "\"Action Buttons\" (Nút hành động) là gì?",
+    "answer": "Là các hình khối được tạo sẵn để gán các hành động như đi tới slide kế tiếp, quay lại, v.v."
+  },
+  {
+    "question": "\"Animation Pane\" (Khung hoạt hình) có chức năng gì?",
+    "answer": "Hiển thị danh sách các hiệu ứng trên slide và cho phép thay đổi thứ tự, thời gian của chúng."
+  },
+  {
+    "question": "\"Placeholder\" trong PowerPoint là gì?",
+    "answer": "Là một hộp có đường viền chấm để chứa nội dung như văn bản, hình ảnh."
+  },
+  {
+    "question": "\"SmartArt\" là công cụ dùng để làm gì?",
+    "answer": "Tạo các sơ đồ, lưu đồ một cách trực quan và chuyên nghiệp."
+  },
+  {
+    "question": "\"Trigger\" (Kích hoạt) trong Animations có tác dụng gì?",
+    "answer": "Làm cho một hiệu ứng bắt đầu khi bạn nhấp vào một đối tượng cụ thể nào đó."
+  },
+  {
+    "question": "Bạn có thể tìm thấy \"Action Buttons\" ở đâu?",
+    "answer": "Thẻ Insert -> Shapes -> Action Buttons (ở cuối danh sách)"
+  },
+  {
+    "question": "Chức năng \"Format Painter\" (cọ định dạng) dùng để làm gì?",
+    "answer": "Sao chép định dạng từ một đối tượng/văn bản này sang đối tượng/văn bản khác."
+  },
+  {
+    "question": "Chức năng \"Notes Page\" (Trang ghi chú) trong PowerPoint dùng để làm gì?",
+    "answer": "Thêm các ghi chú, lời nhắc cho người thuyết trình mà khán giả không nhìn thấy khi trình chiếu."
+  },
+  {
+    "question": "Chức năng \"Shapes\" (Hình khối) trong thẻ Insert cho phép bạn làm gì?",
+    "answer": "Vẽ các hình cơ bản như hình chữ nhật, tròn, mũi tên."
+  },
+  {
+    "question": "Chức năng của \"Layout\" trong slide là gì?",
+    "answer": "Xác định cách bố trí các đối tượng (văn bản, hình ảnh,...) trên slide."
+  },
+  {
+    "question": "Chức năng của \"Slide Master\" là gì?",
+    "answer": "Để thay đổi, tùy chỉnh định dạng chung (font chữ, màu sắc, logo...) cho tất cả các slide theo một layout nhất định."
+  },
+  {
+    "question": "Có mấy nhóm hiệu ứng Animation chính?",
+    "answer": "4 nhóm\\: Entrance, Emphasis, Exit và Motion Paths."
+  },
+  {
+    "question": "Để áp dụng một hiệu ứng chuyển tiếp cho tất cả các slide trong bài trình chiếu, bạn nhấn vào nút nào sau khi đã chọn hiệu ứng?",
+    "answer": "Apply to All"
+  },
+  {
+    "question": "Để căn lề giữa cho một đoạn văn bản, bạn chọn biểu tượng nào trong thẻ Home?",
+    "answer": "Center"
+  },
+  {
+    "question": "Để cắt xén (crop) một hình ảnh, bạn làm gì?",
+    "answer": "Chọn hình ảnh, vào thẻ Picture Format, chọn Crop."
+  },
+  {
+    "question": "Để chèn một biểu đồ (Chart) vào slide, bạn vào thẻ nào?",
+    "answer": "Insert"
+  },
+  {
+    "question": "Để chèn một đoạn âm thanh (Audio) vào slide, bạn vào đâu?",
+    "answer": "Insert -> Audio"
+  },
+  {
+    "question": "Để chèn một hình ảnh từ máy tính vào slide, bạn chọn?",
+    "answer": "Insert -> Pictures"
+  },
+  {
+    "question": "Để chèn một hộp văn bản (Text Box) vào slide, bạn vào thẻ nào?",
+    "answer": "Insert"
+  },
+  {
+    "question": "Để chèn một video từ máy tính vào slide, bạn chọn?",
+    "answer": "Insert -> Video -> This Device"
+  },
+  {
+    "question": "Để chèn số trang vào tất cả các slide, cách hiệu quả nhất là gì?",
+    "answer": "Vào Insert -> Header & Footer -> Chọn Slide number."
+  },
+  {
+    "question": "Để không hiển thị số trang và footer ở slide tiêu đề, bạn cần làm gì trong hộp thoại \"Header and Footer\"?",
+    "answer": "Đánh dấu vào ô \"Don't show on title slide\"."
+  },
+  {
+    "question": "Để làm cho chữ đậm, bạn sử dụng tổ hợp phím nào?",
+    "answer": "Ctrl + B"
+  },
+  {
+    "question": "Để sao chép một slide, bạn có thể làm gì?",
+    "answer": "Chọn slide và nhấn Ctrl + D (Duplicate)."
+  },
+  {
+    "question": "Để tạo danh sách có dấu đầu dòng (bulleted list), bạn chọn công cụ nào trong thẻ Home?",
+    "answer": "Bullets"
+  },
+  {
+    "question": "Để tạo hiệu ứng cho một đối tượng, đầu tiên bạn phải làm gì?",
+    "answer": "Chọn đối tượng (văn bản, hình ảnh,...) muốn tạo hiệu ứng."
+  },
+  {
+    "question": "Để tạo một siêu liên kết (Hyperlink) cho một văn bản hoặc hình ảnh, bạn làm gì?",
+    "answer": "Chọn đối tượng, nhấn chuột phải và chọn Link hoặc nhấn Ctrl + K."
+  },
+  {
+    "question": "Để thay đổi loại biểu đồ (ví dụ từ cột sang tròn), bạn thực hiện thao tác nào?",
+    "answer": "Chọn biểu đồ, vào thẻ Chart Design, chọn Change Chart Type."
+  },
+  {
+    "question": "Để thay đổi thiết kế (Theme) cho toàn bộ bài trình chiếu, bạn vào thẻ nào?",
+    "answer": "Design"
+  },
+  {
+    "question": "Để thêm hiệu ứng chuyển tiếp cho slide, bạn chọn thẻ nào?",
+    "answer": "Transitions"
+  },
+  {
+    "question": "Để thêm một slide mới, bạn có thể sử dụng tổ hợp phím nào?",
+    "answer": "Ctrl + M"
+  },
+  {
+    "question": "Để truy cập vào chế độ xem \"Slide Master\", bạn vào thẻ nào?",
+    "answer": "View"
+  },
+  {
+    "question": "Để xem trước các hiệu ứng hoạt hình trên slide hiện tại, bạn có thể nhấn vào nút nào trong thẻ Animations?",
+    "answer": "Preview"
+  },
+  {
+    "question": "Để xem và chỉnh sửa ghi chú của diễn giả, bạn có thể vào chế độ xem nào?",
+    "answer": "Normal View (khung ghi chú ở dưới) hoặc Notes Page View"
+  },
+  {
+    "question": "Hiệu ứng \"Fly In\" thuộc nhóm hiệu ứng nào?",
+    "answer": "Entrance"
+  },
+  {
+    "question": "Hiệu ứng chuyển tiếp (Transition) là gì?",
+    "answer": "Hiệu ứng hình ảnh khi chuyển từ slide này sang slide kế tiếp."
+  },
+  {
+    "question": "Hiệu ứng hoạt hình (Animation) trong PowerPoint là gì?",
+    "answer": "Hiệu ứng chuyển động cho các đối tượng (văn bản, hình ảnh,...) bên trong một slide."
+  },
+  {
+    "question": "Khi chèn một biểu đồ, cửa sổ nào sẽ tự động xuất hiện kèm theo để bạn nhập dữ liệu?",
+    "answer": "Một bảng tính giống Excel"
+  },
+  {
+    "question": "Khi đang trình chiếu, làm thế nào để xem ghi chú của diễn giả trên màn hình của mình (nếu có 2 màn hình)?",
+    "answer": "Sử dụng chế độ xem \"Presenter View\"."
+  },
+  {
+    "question": "Làm thế nào để nhóm (Group) nhiều đối tượng hình khối lại với nhau?",
+    "answer": "Chọn các đối tượng (giữ phím Shift hoặc Ctrl), nhấn chuột phải và chọn Group."
+  },
+  {
+    "question": "Làm thế nào để thay đổi phông chữ cho một đoạn văn bản đã chọn?",
+    "answer": "Vào thẻ Home, trong nhóm Font, chọn phông chữ từ danh sách."
+  },
+  {
+    "question": "Lợi ích chính của việc sử dụng Slide Master là gì?",
+    "answer": "Đảm bảo tính nhất quán về định dạng trong toàn bộ bài trình chiếu và tiết kiệm thời gian chỉnh sửa."
+  },
+  {
+    "question": "Một siêu liên kết có thể trỏ đến đâu?",
+    "answer": "Một trang web, một slide khác, một tệp tin khác hoặc một địa chỉ email."
+  },
+  {
+    "question": "Sau khi chèn một hình ảnh, thẻ ngữ cảnh nào sẽ xuất hiện để bạn định dạng hình ảnh đó?",
+    "answer": "Picture Format (hoặc Format)"
+  },
+  {
+    "question": "Sau khi chọn đối tượng, bạn vào thẻ nào để thêm hiệu ứng hoạt hình?",
+    "answer": "Animations"
+  },
+  {
+    "question": "Thao tác nào dùng để xóa một slide?",
+    "answer": "Chọn slide và nhấn phím Delete."
+  },
+  {
+    "question": "Trong Animation Pane, làm thế nào để một hiệu ứng bắt đầu cùng lúc với hiệu ứng trước đó?",
+    "answer": "Chọn \"Start With Previous\"."
+  },
+  {
+    "question": "Trong hộp thoại \"Header and Footer\", bạn có thể chèn những gì vào slide?",
+    "answer": "Ngày tháng, số slide và nội dung Footer."
+  },
+  {
+    "question": "Trong Slide Master, việc thay đổi trên slide trên cùng (slide to nhất) sẽ ảnh hưởng đến?",
+    "answer": "Tất cả các slide layout bên dưới nó."
+  },
+  {
+    "question": "Trong thẻ Transitions, \"Effect Options\" dùng để làm gì?",
+    "answer": "Tùy chỉnh hướng hoặc các kiểu khác nhau của hiệu ứng đã chọn."
+  },
+  {
+    "question": "\"Cyberbullying\" (Bắt nạt trên mạng) là gì?",
+    "answer": "Sử dụng công nghệ để đe dọa, làm bẽ mặt hoặc quấy rối người khác"
+  },
+  {
+    "question": "\"Hashtag\" (\\#) trên mạng xã hội được sử dụng để làm gì?",
+    "answer": "Nhóm các bài viết có cùng chủ đề lại với nhau"
+  },
+  {
+    "question": "\"Phishing\" (Lừa đảo qua mạng) là hình thức tấn công gì?",
+    "answer": "Tạo các trang web hoặc email giả mạo để lừa người dùng tiết lộ thông tin nhạy cảm"
+  },
+  {
+    "question": "\"Spam\" trong email là gì?",
+    "answer": "Thư rác hoặc thư quảng cáo không mong muốn"
+  },
+  {
+    "question": "\"Trang chủ\" (Homepage) của một trang web là gì?",
+    "answer": "Trang đầu tiên hoặc trang chính của một trang web"
+  },
+  {
+    "question": "Bộ định tuyến (Router) là thiết bị dùng để làm gì?",
+    "answer": "Chuyển tiếp các gói dữ liệu giữa các mạng máy tính"
+  },
+  {
+    "question": "Chế độ duyệt web ẩn danh (Incognito/Private Mode) có tác dụng gì?",
+    "answer": "Không lưu lại lịch sử duyệt web, cookie và dữ liệu trang web trên thiết bị"
+  },
+  {
+    "question": "Chức năng \"Trả lời tất cả\" (Reply All) trong email sẽ gửi thư trả lời đến ai?",
+    "answer": "Người gửi ban đầu và tất cả những người nhận khác (trong To và Cc)"
+  },
+  {
+    "question": "Cookie trong trình duyệt web là gì?",
+    "answer": "Một tệp nhỏ mà trang web lưu trên máy tính của bạn để ghi nhớ thông tin"
+  },
+  {
+    "question": "Dịch vụ lưu trữ đám mây là gì?",
+    "answer": "Một dịch vụ cho phép lưu trữ dữ liệu trên các máy chủ từ xa và truy cập qua Internet"
+  },
+  {
+    "question": "Đâu không phải là một mạng xã hội?",
+    "answer": "Microsoft Word"
+  },
+  {
+    "question": "Đâu là một biện pháp tốt để bảo vệ máy tính khỏi virus?",
+    "answer": "Cài đặt và cập nhật thường xuyên một phần mềm diệt virus"
+  },
+  {
+    "question": "Đâu là một rủi ro của việc sử dụng mạng xã hội?",
+    "answer": "Bị lộ thông tin cá nhân hoặc bị bắt nạt trên mạng"
+  },
+  {
+    "question": "Đâu là một ví dụ về công cụ tìm kiếm phổ biến?",
+    "answer": "Google"
+  },
+  {
+    "question": "Đâu là một ví dụ về dịch vụ lưu trữ đám mây?",
+    "answer": "Google Drive"
+  },
+  {
+    "question": "Để gửi một tệp tin kèm theo email, bạn sử dụng chức năng nào?",
+    "answer": "Đính kèm tệp (Attach file)"
+  },
+  {
+    "question": "Để tìm kiếm hình ảnh trên Google, bạn nên chọn tab nào?",
+    "answer": "Hình ảnh (Images)"
+  },
+  {
+    "question": "Để tránh bị theo dõi khi lướt web, bạn có thể sử dụng công cụ nào?",
+    "answer": "Mạng riêng ảo (VPN)"
+  },
+  {
+    "question": "Để xóa bộ nhớ cache (cache) của trình duyệt, bạn cần vào đâu?",
+    "answer": "Cài đặt hoặc Tùy chọn của trình duyệt"
+  },
+  {
+    "question": "Điều gì xảy ra khi bạn xóa cookie của trình duyệt?",
+    "answer": "Các trang web có thể sẽ quên các tùy chọn bạn đã đặt và bạn cần đăng nhập lại"
+  },
+  {
+    "question": "Giao thức nào được sử dụng để gửi email?",
+    "answer": "SMTP (Simple Mail Transfer Protocol)"
+  },
+  {
+    "question": "Giao thức nào thường được sử dụng để tải tệp tin từ một máy chủ Internet?",
+    "answer": "FTP (File Transfer Protocol)"
+  },
+  {
+    "question": "Hacker là gì?",
+    "answer": "Người cố gắng xâm nhập vào hệ thống máy tính một cách trái phép"
+  },
+  {
+    "question": "Khi bạn tải lên (upload) một tệp, bạn đang làm gì?",
+    "answer": "Gửi dữ liệu từ máy tính của bạn đến một hệ thống khác trên Internet"
+  },
+  {
+    "question": "Khi bạn tải xuống (download) một tệp, bạn đang làm gì?",
+    "answer": "Sao chép dữ liệu từ Internet về máy tính của bạn"
+  },
+  {
+    "question": "Khi chia sẻ thông tin cá nhân trên mạng xã hội, bạn nên làm gì để đảm bảo an toàn?",
+    "answer": "Thiết lập quyền riêng tư để giới hạn người có thể xem thông tin của bạn"
+  },
+  {
+    "question": "Khi mua sắm trực tuyến, biểu tượng nào cho thấy trang thanh toán là an toàn?",
+    "answer": "Biểu tượng ổ khóa trên thanh địa chỉ"
+  },
+  {
+    "question": "Khi sử dụng máy tìm kiếm, việc đặt cụm từ trong dấu ngoặc kép (\" \") có tác dụng gì?",
+    "answer": "Tìm kiếm chính xác cụm từ đó"
+  },
+  {
+    "question": "Khi sử dụng Wi-Fi công cộng, bạn nên tránh làm gì?",
+    "answer": "Thực hiện các giao dịch ngân hàng trực tuyến"
+  },
+  {
+    "question": "Làm thế nào để nhận biết một liên kết (link) là đáng ngờ?",
+    "answer": "Di chuột qua liên kết và thấy địa chỉ thực sự khác với văn bản hiển thị"
+  },
+  {
+    "question": "Làm thế nào để tạo một mật khẩu mạnh?",
+    "answer": "Kết hợp chữ hoa, chữ thường, số và ký tự đặc biệt"
+  },
+  {
+    "question": "Mạng xã hội là gì?",
+    "answer": "Một nền tảng trực tuyến để mọi người kết nối, chia sẻ thông tin và tương tác"
+  },
+  {
+    "question": "Một trang \"404 Not Found\" có nghĩa là gì?",
+    "answer": "Máy chủ không thể tìm thấy trang web bạn yêu cầu"
+  },
+  {
+    "question": "Phần mềm độc hại (malware) là gì?",
+    "answer": "Một phần mềm được thiết kế để gây hại cho máy tính hoặc đánh cắp thông tin"
+  },
+  {
+    "question": "POP3 và IMAP là các giao thức liên quan đến dịch vụ nào?",
+    "answer": "Nhận email"
+  },
+  {
+    "question": "RSS feed là gì?",
+    "answer": "Một định dạng để cung cấp cho người dùng nội dung được cập nhật thường xuyên từ một trang web"
+  },
+  {
+    "question": "Thanh trạng thái (Status Bar) của trình duyệt thường hiển thị thông tin gì?",
+    "answer": "Trạng thái tải của trang, địa chỉ của liên kết khi di chuột qua"
+  },
+  {
+    "question": "Thư mục \"Hộp thư đến\" (Inbox) trong email chứa những gì?",
+    "answer": "Các thư mới nhận được"
+  },
+  {
+    "question": "Thương mại điện tử (E-commerce) là gì?",
+    "answer": "Việc mua bán hàng hóa và dịch vụ thông qua Internet"
+  },
+  {
+    "question": "Tổ hợp phím Ctrl + F trong trình duyệt web dùng để làm gì?",
+    "answer": "Mở hộp thoại tìm kiếm văn bản trên trang hiện tại"
+  },
+  {
+    "question": "Tổ hợp phím Ctrl + T trong hầu hết các trình duyệt web dùng để làm gì?",
+    "answer": "Mở một tab mới"
+  },
+  {
+    "question": "Toán tử \"filetype\\:pdf\" trong công cụ tìm kiếm Google dùng để làm gì?",
+    "answer": "Chỉ tìm kiếm các tệp có định dạng PDF"
+  },
+  {
+    "question": "Toán tử \"OR\" trong tìm kiếm nâng cao có ý nghĩa gì?",
+    "answer": "Tìm kiếm các kết quả chứa một trong hai từ khóa (hoặc cả hai)"
+  },
+  {
+    "question": "Trò chuyện trực tuyến (Chat) là hình thức giao tiếp...",
+    "answer": "Đồng bộ (Synchronous) hoặc gần như đồng bộ"
+  },
+  {
+    "question": "Trong các địa chỉ email sau, địa chỉ nào là không hợp lệ?",
+    "answer": "tenban@.com"
+  },
+  {
+    "question": "Trong email, \"Bcc\" là viết tắt của cụm từ gì và có ý nghĩa gì?",
+    "answer": "Blind Carbon Copy - Người nhận trong danh sách này sẽ không thấy địa chỉ của nhau"
+  },
+  {
+    "question": "Trong một địa chỉ email, ký tự nào dùng để ngăn cách giữa tên người dùng và tên miền?",
+    "answer": "Ký tự @"
+  },
+  {
+    "question": "Tường lửa (Firewall) có chức năng chính là gì?",
+    "answer": "Ngăn chặn truy cập trái phép vào mạng máy tính của bạn"
+  },
+  {
+    "question": "VoIP là viết tắt của công nghệ gì?",
+    "answer": "Voice over Internet Protocol"
+  },
+  {
+    "question": "World Wide Web (WWW) và Internet có phải là một không?",
+    "answer": "Không, WWW là một dịch vụ hoạt động trên nền tảng Internet"
+  }
+]

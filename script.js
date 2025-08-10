@@ -1,6 +1,6 @@
 let quizData = [];
 
-fetch('all_questions.json')
+fetch('all_questions_list.json')
   .then(response => response.json())
   .then(data => quizData = data);
 
