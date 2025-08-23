@@ -2,17 +2,16 @@
 // Thay URL bên dưới bằng Web App URL của bạn nếu khác.
 const API_URL = 'https://script.google.com/macros/s/AKfycbw4HwzGR3sNDq6xBg-EhB7d21AA0NkdMXOwxdYRcYlKHoAoBiHVjHTPRT2P1tIv9Z5D/exec';
 
-/* Nếu có file dữ liệu câu hỏi local: all_questions_list.json
-   Mỗi phần tử: { "question": "...", "answer": "A/B/C/D/..." } */
+
+// (tuỳ chọn) dữ liệu câu hỏi local
 let quizData = [];
-fetch('questions.json')
+fetch('all_questions_list.json')
   .then(r => r.ok ? r.json() : [])
   .then(data => { quizData = Array.isArray(data) ? data : []; })
   .catch(() => {});
 
 /* ========= TIỆN ÍCH ========= */
 function uuid() {
-  // Tạo deviceId cố định trên trình duyệt (lưu localStorage)
   const key = 'deviceId';
   let id = localStorage.getItem(key);
   if (!id) {
@@ -23,22 +22,14 @@ function uuid() {
   }
   return id;
 }
-
 function saveSession({ sbd, token, role }) {
   localStorage.setItem('sbd', sbd);
   localStorage.setItem('token', token || '');
   if (role) localStorage.setItem('role', role);
 }
-
 function getSession() {
-  return {
-    sbd: localStorage.getItem('sbd') || '',
-    token: localStorage.getItem('token') || '',
-    role: localStorage.getItem('role') || '',
-    deviceId: uuid()
-  };
+  return { sbd: localStorage.getItem('sbd') || '', token: localStorage.getItem('token') || '', role: localStorage.getItem('role') || '', deviceId: uuid() };
 }
-
 function clearSession() {
   localStorage.removeItem('sbd');
   localStorage.removeItem('token');
@@ -61,22 +52,25 @@ const btnList    = document.getElementById('btnList');
 const adminOut   = document.getElementById('adminOut');
 const roleBadge  = document.getElementById('roleBadge');
 
+// Auth bar
+const authBar = document.getElementById('authBar');
+const authInfo = document.getElementById('authInfo');
+const btnLogout = document.getElementById('btnLogout');
+const btnClearDev = document.getElementById('btnClearDev');
+
 /* ========= API ========= */
 async function apiCheck(sbd) {
   const url = `${API_URL}?action=check&sbd=${encodeURIComponent(sbd)}&deviceId=${encodeURIComponent(uuid())}`;
   const res = await fetch(url, { method: 'GET' });
-  // Google Apps Script luôn trả JSON text/plain → vẫn đọc được bằng res.json()
   if (!res.ok) throw new Error('Network error');
   return res.json();
 }
-
 async function apiReset(key, sbd) {
   const url = `${API_URL}?action=reset&key=${encodeURIComponent(key)}&sbd=${encodeURIComponent(sbd)}`;
   const res = await fetch(url, { method: 'GET' });
   if (!res.ok) throw new Error('Network error');
   return res.json();
 }
-
 async function apiList(key) {
   const url = `${API_URL}?action=list&key=${encodeURIComponent(key)}`;
   const res = await fetch(url, { method: 'GET' });
@@ -87,38 +81,36 @@ async function apiList(key) {
 /* ========= AUTH FLOW ========= */
 async function ensureAuth() {
   const sess = getSession();
-  if (!sess.sbd || !sess.token) {
-    showLogin();
-    return false;
-  }
+  if (!sess.sbd || !sess.token) { showLogin(); setAuthBar(false); return false; }
   try {
     const rs = await apiCheck(sess.sbd);
     if (rs.ok) {
       saveSession({ sbd: sess.sbd, token: rs.token, role: rs.role });
       showRoleBadge(rs.role);
+      setAuthBar(true);
       unlockSearch();
       return true;
     }
     clearSession();
+    setAuthBar(false);
     showLogin(rs.message || 'Vui lòng đăng nhập lại.');
     return false;
   } catch (e) {
+    setAuthBar(false);
     showLogin('Không thể kết nối máy chủ, thử lại sau.');
     return false;
   }
 }
 
 function showLogin(msg) {
-  if (msg) loginMsg.textContent = msg; else loginMsg.textContent = '';
+  loginMsg.textContent = msg || '';
   lockOverlay.style.display = 'flex';
   searchBox.setAttribute('disabled', 'disabled');
 }
-
 function unlockSearch() {
   lockOverlay.style.display = 'none';
   searchBox.removeAttribute('disabled');
 }
-
 function showRoleBadge(role) {
   roleBadge.innerHTML = '';
   if (!role) return;
@@ -128,6 +120,12 @@ function showRoleBadge(role) {
     ? 'Bạn đang đăng nhập với quyền SUPERADMIN (đa thiết bị).'
     : 'Bạn đang đăng nhập với tài khoản thường.';
   roleBadge.appendChild(div);
+}
+function setAuthBar(show) {
+  if (!show) { authBar.style.display = 'none'; authInfo.textContent = ''; return; }
+  const sess = getSession();
+  authBar.style.display = 'flex';
+  authInfo.textContent = `Đang đăng nhập: ${sess.sbd} (${sess.role || 'USER'})`;
 }
 
 /* ========= EVENTS ========= */
@@ -140,13 +138,30 @@ btnLogin?.addEventListener('click', async () => {
     if (rs.ok) {
       saveSession({ sbd, token: rs.token, role: rs.role });
       showRoleBadge(rs.role);
+      setAuthBar(true);
       unlockSearch();
       loginMsg.textContent = '';
     } else {
       loginMsg.textContent = rs.message || 'Không được phép truy cập';
     }
-  } catch (e) {
+  } catch {
     loginMsg.textContent = 'Lỗi kết nối. Thử lại.';
+  }
+});
+
+btnLogout?.addEventListener('click', () => {
+  clearSession();
+  showRoleBadge('');
+  setAuthBar(false);
+  searchBox.value = '';
+  resultsDiv.innerHTML = '';
+  showLogin('Đã đăng xuất trên máy này.');
+});
+
+btnClearDev?.addEventListener('click', () => {
+  if (confirm('Chỉ xóa deviceId trong trình duyệt này (KHÔNG giải phóng trên server). Tiếp tục?')) {
+    localStorage.removeItem('deviceId');
+    alert('Đã xóa deviceId cục bộ. Muốn chuyển SBD sang máy khác hãy dùng Reset (server).');
   }
 });
 
@@ -162,10 +177,7 @@ searchBox.addEventListener('input', function () {
   }
 
   const items = (quizData || []).filter(q => (q.question || '').toLowerCase().includes(keyword));
-  if (items.length === 0) {
-    resultsDiv.textContent = 'Không tìm thấy câu hỏi nào.';
-    return;
-  }
+  if (items.length === 0) { resultsDiv.textContent = 'Không tìm thấy câu hỏi nào.'; return; }
   for (const it of items) {
     const div = document.createElement('div');
     div.className = 'alert alert-success';
@@ -176,33 +188,26 @@ searchBox.addEventListener('input', function () {
 
 (function enableAdminPanel() {
   const url = new URL(window.location.href);
-  if (url.searchParams.get('admin') === '1') {
-    adminPanel.classList.remove('hidden');
-  }
+  if (url.searchParams.get('admin') === '1') adminPanel.classList.remove('hidden');
 })();
-
 btnReset?.addEventListener('click', async () => {
   adminOut.textContent = 'Đang reset...';
   try {
     const rs = await apiReset((adminKey.value || '').trim(), (resetSbd.value || '').trim());
     adminOut.textContent = JSON.stringify(rs, null, 2);
-  } catch (e) {
-    adminOut.textContent = 'Lỗi kết nối.';
-  }
+  } catch { adminOut.textContent = 'Lỗi kết nối.'; }
 });
-
 btnList?.addEventListener('click', async () => {
   adminOut.textContent = 'Đang tải danh sách...';
   try {
     const rs = await apiList((adminKey.value || '').trim());
     adminOut.textContent = JSON.stringify(rs, null, 2);
-  } catch (e) {
-    adminOut.textContent = 'Lỗi kết nối.';
-  }
+  } catch { adminOut.textContent = 'Lỗi kết nối.'; }
 });
 
 /* ========= BOOT ========= */
 ensureAuth();
+
 
 // let quizData = [];
 
