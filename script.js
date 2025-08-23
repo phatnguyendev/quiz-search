@@ -5,7 +5,7 @@ const API_URL = 'https://script.google.com/macros/s/AKfycbw4HwzGR3sNDq6xBg-EhB7d
 /* Nếu có file dữ liệu câu hỏi local: all_questions_list.json
    Mỗi phần tử: { "question": "...", "answer": "A/B/C/D/..." } */
 let quizData = [];
-fetch('all_questions_list.json')
+fetch('questions.json')
   .then(r => r.ok ? r.json() : [])
   .then(data => { quizData = Array.isArray(data) ? data : []; })
   .catch(() => {});
